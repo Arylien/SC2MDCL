@@ -1,0 +1,2265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Bank version="1">
+    <Section name="BirthData">
+        <Key name="83">
+            <Value text="83|571.8125|53739533|127.5|56.3125|"/>
+        </Key>
+        <Key name="72">
+            <Value text="72|503.9375|57933827|21.625|135.2421|"/>
+        </Key>
+        <Key name="38">
+            <Value text="38|316.6875|60555265|33.625|135.5|"/>
+        </Key>
+        <Key name="14">
+            <Value text="14|127.125|50593793|21.625|135.2421|"/>
+        </Key>
+        <Key name="60">
+            <Value text="60|443.75|68157441|146.375|22.4218|"/>
+        </Key>
+        <Key name="49">
+            <Value text="49|383.375|65273857|145.375|57.4218|"/>
+        </Key>
+        <Key name="41">
+            <Value text="41|342.4375|61603841|146.375|22.4218|"/>
+        </Key>
+        <Key name="28">
+            <Value text="28|248.4375|56098817|146.375|22.4218|"/>
+        </Key>
+        <Key name="25">
+            <Value text="25|223.0625|54525953|21.625|135.2421|"/>
+        </Key>
+        <Key name="77">
+            <Value text="77|557|52166660|142.4218|26.375|"/>
+        </Key>
+        <Key name="57">
+            <Value text="57|427.0625|67371009|146.375|22.4218|"/>
+        </Key>
+        <Key name="40">
+            <Value text="40|332.9375|61341697|145.375|57.4218|"/>
+        </Key>
+        <Key name="30">
+            <Value text="30|253.375|56623105|33.625|135.5|"/>
+        </Key>
+        <Key name="6">
+            <Value text="6|52.1875|47185921|146.375|22.4218|"/>
+        </Key>
+        <Key name="1">
+            <Value text="1|18.125|45613057|21.625|135.2421|"/>
+        </Key>
+        <Key name="76">
+            <Value text="76|556.75|65011717|145.375|57.4218|"/>
+        </Key>
+        <Key name="73">
+            <Value text="73|507.3125|54001677|127.5|57.5|"/>
+        </Key>
+        <Key name="39">
+            <Value text="39|325.5|60817409|146.375|22.4218|"/>
+        </Key>
+        <Key name="81">
+            <Value text="81|568.9375|52166661|145.375|57.4218|"/>
+        </Key>
+        <Key name="66">
+            <Value text="66|467.25|69730305|126.5|52.6875|"/>
+        </Key>
+        <Key name="86">
+            <Value text="86|602.125|65011722|142.4218|26.375|"/>
+        </Key>
+        <Key name="59">
+            <Value text="59|442.9375|67895297|29|133.4375|"/>
+        </Key>
+        <Key name="35">
+            <Value text="35|294.125|59244545|146.375|22.4218|"/>
+        </Key>
+        <Key name="8">
+            <Value text="8|71.0625|47972353|21.625|135.2421|"/>
+        </Key>
+        <Key name="62">
+            <Value text="62|458.8125|68681729|21.625|137.7578|"/>
+        </Key>
+        <Key name="2">
+            <Value text="2|18.375|45875201|146.375|22.4218|"/>
+        </Key>
+        <Key name="43">
+            <Value text="43|352.6875|62128129|126.5|52.6875|"/>
+        </Key>
+        <Key name="65">
+            <Value text="65|467|69468161|27.3437|129.25|"/>
+        </Key>
+        <Key name="44">
+            <Value text="44|355.5625|62390273|27.3437|129.25|"/>
+        </Key>
+        <Key name="11">
+            <Value text="11|104.75|49020929|146.375|22.4218|"/>
+        </Key>
+        <Key name="85">
+            <Value text="85|585.1875|47448074|142.4218|26.375|"/>
+        </Key>
+        <Key name="78">
+            <Value text="78|558.5|65536003|29|133.3125|"/>
+        </Key>
+        <Key name="61">
+            <Value text="61|443.875|68419585|145.375|57.4218|"/>
+        </Key>
+        <Key name="48">
+            <Value text="48|383.25|65011713|146.375|22.4218|"/>
+        </Key>
+        <Key name="32">
+            <Value text="32|271|58195969|21.625|137.7578|"/>
+        </Key>
+        <Key name="15">
+            <Value text="15|141.1875|50855937|21.625|135.2421|"/>
+        </Key>
+        <Key name="82">
+            <Value text="82|571.5625|55050246|126.5|52.6875|"/>
+        </Key>
+        <Key name="51">
+            <Value text="51|408.5|65798145|16|120|"/>
+        </Key>
+        <Key name="36">
+            <Value text="36|306.6875|59768833|21.625|135.2421|"/>
+        </Key>
+        <Key name="34">
+            <Value text="34|290|58982401|21.625|135.2421|"/>
+        </Key>
+        <Key name="22">
+            <Value text="22|187.8125|53215233|21.625|135.2421|"/>
+        </Key>
+        <Key name="58">
+            <Value text="58|441|67633153|16|120|"/>
+        </Key>
+        <Key name="33">
+            <Value text="33|282.8125|58720257|146.375|22.4218|"/>
+        </Key>
+        <Key name="31">
+            <Value text="31|259.875|57147393|146.375|22.4218|"/>
+        </Key>
+        <Key name="29">
+            <Value text="29|251.25|56360961|21.625|135.2421|"/>
+        </Key>
+        <Key name="16">
+            <Value text="16|142|51118081|146.375|22.4218|"/>
+        </Key>
+        <Key name="4">
+            <Value text="4|37.1875|46399489|146.375|22.4218|"/>
+        </Key>
+        <Key name="46">
+            <Value text="46|366.875|63438849|131.5|57.5|"/>
+        </Key>
+        <Key name="71">
+            <Value text="71|493.5|71827457|145.375|57.4218|"/>
+        </Key>
+        <Key name="9">
+            <Value text="9|87.375|48234497|21.625|135.2421|"/>
+        </Key>
+        <Key name="69">
+            <Value text="69|477.625|70516737|142.4218|26.375|"/>
+        </Key>
+        <Key name="68">
+            <Value text="68|476.5625|70254593|145.375|57.4218|"/>
+        </Key>
+        <Key name="19">
+            <Value text="19|167|52166657|146.375|22.4218|"/>
+        </Key>
+        <Key name="54">
+            <Value text="54|415.75|66584577|146.375|22.4218|"/>
+        </Key>
+        <Key name="47">
+            <Value text="47|372.25|63963137|33.5625|135.375|"/>
+        </Key>
+        <Key name="3">
+            <Value text="3|35.0625|46137345|21.625|135.2421|"/>
+        </Key>
+        <Key name="27">
+            <Value text="27|230.5625|55312385|146.375|22.4218|"/>
+        </Key>
+        <Key name="26">
+            <Value text="26|225.4375|55050241|32.5|136.125|"/>
+        </Key>
+        <Key name="84">
+            <Value text="84|578.0625|58720267|29|133.3125|"/>
+        </Key>
+        <Key name="70">
+            <Value text="70|492.625|71303169|21.625|137.7578|"/>
+        </Key>
+        <Key name="20">
+            <Value text="20|167.9375|52428801|21.625|135.2421|"/>
+        </Key>
+        <Key name="10">
+            <Value text="10|99|48758785|21.625|135.2421|"/>
+        </Key>
+        <Key name="64">
+            <Value text="64|464.625|69206017|145.375|57.4218|"/>
+        </Key>
+        <Key name="45">
+            <Value text="45|359.375|62652417|146.375|22.4218|"/>
+        </Key>
+        <Key name="23">
+            <Value text="23|195|53739521|146.375|22.4218|"/>
+        </Key>
+        <Key name="74">
+            <Value text="74|513.25|62128133|126.5|52.6875|"/>
+        </Key>
+        <Key name="21">
+            <Value text="21|183.6875|52953089|146.375|22.4218|"/>
+        </Key>
+        <Key name="79">
+            <Value text="79|565.625|45875225|16|120|"/>
+        </Key>
+        <Key name="50">
+            <Value text="50|400.1875|65536001|146.375|22.4218|"/>
+        </Key>
+        <Key name="37">
+            <Value text="37|309.875|60030977|145.375|57.4218|"/>
+        </Key>
+        <Key name="80">
+            <Value text="80|568.3125|55312386|142.4218|26.375|"/>
+        </Key>
+        <Key name="52">
+            <Value text="52|408.5625|66060289|27.3437|129.25|"/>
+        </Key>
+        <Key name="7">
+            <Value text="7|63.5|47448065|146.375|22.4218|"/>
+        </Key>
+        <Key name="75">
+            <Value text="75|522.8125|54001689|142.4218|26.375|"/>
+        </Key>
+        <Key name="55">
+            <Value text="55|426.625|66846721|33.5625|135.3303|"/>
+        </Key>
+        <Key name="53">
+            <Value text="53|415.0625|66322433|145.375|57.4218|"/>
+        </Key>
+        <Key name="42">
+            <Value text="42|346.625|61865985|145.375|57.4218|"/>
+        </Key>
+        <Key name="24">
+            <Value text="24|206.125|54263809|21.625|135.2421|"/>
+        </Key>
+        <Key name="17">
+            <Value text="17|152.5|51642369|21.625|135.2421|"/>
+        </Key>
+        <Key name="13">
+            <Value text="13|116.875|49807361|146.375|22.4218|"/>
+        </Key>
+        <Key name="12">
+            <Value text="12|112.625|49545217|21.625|135.2421|"/>
+        </Key>
+        <Key name="67">
+            <Value text="67|475.75|69992449|21.625|137.7578|"/>
+        </Key>
+        <Key name="63">
+            <Value text="63|460.6875|68943873|146.375|22.4218|"/>
+        </Key>
+        <Key name="56">
+            <Value text="56|426.9375|67108865|145.375|57.4218|"/>
+        </Key>
+        <Key name="18">
+            <Value text="18|153.3125|51904513|146.375|22.4218|"/>
+        </Key>
+        <Key name="5">
+            <Value text="5|52|46923777|21.625|135.2421|"/>
+        </Key>
+    </Section>
+    <Section name="UnitData">
+        <Key name="62128133">
+            <Value text="115|62128133|1|Unit/Name/Sentry|Sentry|Prot|50|100|2|0|1|40|0|0|40|2|50|200|0.5625|2.25|1|1000|999.8437|0.5|Ground||10|"/>
+        </Key>
+        <Key name="70254593">
+            <Value text="103|70254593|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="59768833">
+            <Value text="66|59768833|2|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="57933825">
+            <Value text="60|57933825|1|Unit/Name/PhotonCannon|PhotonCannon|Prot|150|0|0|0|1|150|0|0|150|2|0|0|0|0|1|0|720|1.125|Ground|Footprint2x2Contour|11|"/>
+        </Key>
+        <Key name="49283073">
+            <Value text="29|49283073|1|Unit/Name/Forge|Forge|Prot|150|0|0|0|1|400|0|0|400|2|0|0|0|0|1|0|719.4726|1.8125|Ground|Footprint3x3Contour|9|"/>
+        </Key>
+        <Key name="43778049">
+            <Value text="10|43778049|2|Unit/Name/Nexus|Nexus|Prot|400|0|0|10|1|1000|0|0|1000|2|0|100|0.5625|0|1|0|719.4726|2.75|Ground|Footprint5x5Contour|11|"/>
+        </Key>
+        <Key name="43515905">
+            <Value text="7|43515905|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="42467329">
+            <Value text="4|42467329|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="42467341">
+            <Value text="129|42467341|2|Unit/Name/Gateway|Gateway|Prot|150|0|0|0|1|500|0|0|500|2|0|0|0|0|1|0|719.4726|1.8125|Ground|Footprint3x3Contour|9|"/>
+        </Key>
+        <Key name="70778881">
+            <Value text="105|70778881|1|Unit/Name/Pylon|Pylon|Prot|100|0|0|8|1|200|0|0|200|2|0|0|0|0|1|0|719.4726|1.125|Ground|Footprint2x2Contour|9|"/>
+        </Key>
+        <Key name="62390273">
+            <Value text="76|62390273|2|Unit/Name/Immortal|Immortal|Prot|250|100|4|0|1|200|0|0|100|2|0|0|0|2.25|1|1000|720|0.75|Ground||9|"/>
+        </Key>
+        <Key name="51380225">
+            <Value text="36|51380225|2|Unit/Name/Pylon|Pylon|Prot|100|0|0|8|1|200|0|0|200|2|0|0|0|0|1|0|719.4726|1.125|Ground|Footprint2x2Contour|9|"/>
+        </Key>
+        <Key name="45350913">
+            <Value text="9|45350913|2|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="60555284">
+            <Value text="127|60555284|2|Unit/Name/Pylon|Pylon|Prot|100|0|0|8|1|200|0|0|200|2|0|0|0|0|1|0|719.4726|1.125|Ground|Footprint2x2Contour|9|"/>
+        </Key>
+        <Key name="72351757">
+            <Value text="114|72351757|2|Unit/Name/TwilightCouncil|TwilightCouncil|Prot|150|100|0|0|1|500|0|0|500|2|0|0|0|0|1|0|719.4726|1.8125|Ground|Footprint3x3Contour|9|"/>
+        </Key>
+        <Key name="65536001">
+            <Value text="85|65536001|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="45088769">
+            <Value text="14|45088769|2|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="44302337">
+            <Value text="12|44302337|2|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="63963137">
+            <Value text="81|63963137|2|Unit/Name/Stalker|Stalker|Prot|125|50|2|0|1|80|0|0|80|2|0|0|0|2.9531|1|1000|999.8437|0.625|Ground||10|"/>
+        </Key>
+        <Key name="63700993">
+            <Value text="80|63700993|2|Unit/Name/Pylon|Pylon|Prot|100|0|0|8|1|200|0|0|200|2|0|0|0|0|1|0|719.4726|1.125|Ground|Footprint2x2Contour|9|"/>
+        </Key>
+        <Key name="53739521">
+            <Value text="45|53739521|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="49545217">
+            <Value text="30|49545217|2|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="46661633">
+            <Value text="19|46661633|2|Unit/Name/Pylon|Pylon|Prot|100|0|0|8|1|200|0|0|200|2|0|0|0|0|1|0|719.4726|1.125|Ground|Footprint2x2Contour|9|"/>
+        </Key>
+        <Key name="41943041">
+            <Value text="5|41943041|1|Unit/Name/Nexus|Nexus|Prot|400|0|0|10|1|1000|0|0|1000|2|0|100|0.5625|0|1|0|719.4726|2.75|Ground|Footprint5x5Contour|11|"/>
+        </Key>
+        <Key name="45875225">
+            <Value text="121|45875225|2|Unit/Name/Zealot|Zealot|Prot|100|0|2|0|1|100|0|0|50|2|0|0|0|2.25|1|1000|999.8437|0.5|Ground||9|"/>
+        </Key>
+        <Key name="66584577">
+            <Value text="89|66584577|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="63438849">
+            <Value text="79|63438849|1|Unit/Name/Zealot|Zealot|Prot|100|0|2|0|1|100|0|0|50|2|0|0|0|2.25|1|1000|999.8437|0.5|Ground||9|"/>
+        </Key>
+        <Key name="60817409">
+            <Value text="70|60817409|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="51642369">
+            <Value text="37|51642369|2|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="54001689">
+            <Value text="116|54001689|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="71303169">
+            <Value text="107|71303169|2|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="63176705">
+            <Value text="78|63176705|1|Unit/Name/Pylon|Pylon|Prot|100|0|0|8|1|200|0|0|200|2|0|0|0|0|1|0|719.4726|1.125|Ground|Footprint2x2Contour|9|"/>
+        </Key>
+        <Key name="42205185">
+            <Value text="3|42205185|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="43253761">
+            <Value text="2|43253761|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="69468161">
+            <Value text="100|69468161|2|Unit/Name/Immortal|Immortal|Prot|250|100|4|0|1|200|0|0|100|2|0|0|0|2.25|1|1000|720|0.75|Ground||9|"/>
+        </Key>
+        <Key name="46137345">
+            <Value text="17|46137345|2|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="52166661">
+            <Value text="124|52166661|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="68419585">
+            <Value text="96|68419585|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="53477377">
+            <Value text="44|53477377|1|Unit/Name/Nexus|Nexus|Prot|400|0|0|10|1|1000|0|0|1000|2|0|100|0.5625|0|1|0|719.4726|2.75|Ground|Footprint5x5Contour|11|"/>
+        </Key>
+        <Key name="52690945">
+            <Value text="41|52690945|2|Unit/Name/CyberneticsCore|CyberneticsCore|Prot|150|0|0|0|1|550|0|0|550|2|0|0|0|0|1|0|719.4726|1.8125|Ground|Footprint3x3Contour|9|"/>
+        </Key>
+        <Key name="50855937">
+            <Value text="34|50855937|2|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="47185921">
+            <Value text="21|47185921|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="52166660">
+            <Value text="120|52166660|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="61079553">
+            <Value text="71|61079553|2|Unit/Name/Gateway|Gateway|Prot|150|0|0|0|1|500|0|0|500|2|0|0|0|0|1|0|719.4726|1.8125|Ground|Footprint3x3Contour|9|"/>
+        </Key>
+        <Key name="45613057">
+            <Value text="15|45613057|2|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="44826625">
+            <Value text="8|44826625|2|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="60555265">
+            <Value text="69|60555265|2|Unit/Name/Zealot|Zealot|Prot|100|0|2|0|1|100|0|0|50|2|0|0|0|2.25|1|1000|999.8437|0.5|Ground||9|"/>
+        </Key>
+        <Key name="56623105">
+            <Value text="56|56623105|2|Unit/Name/Zealot|Zealot|Prot|100|0|2|0|1|100|0|0|50|2|0|0|0|2.25|1|1000|999.8437|0.5|Ground||9|"/>
+        </Key>
+        <Key name="65273857">
+            <Value text="84|65273857|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="58982401">
+            <Value text="63|58982401|2|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="55836673">
+            <Value text="53|55836673|2|Unit/Name/RoboticsFacility|RoboticsFacility|Prot|200|100|0|0|1|450|0|0|450|2|0|0|0|0|1|0|719.4726|1.8125|Ground|Footprint3x3Contour|9|"/>
+        </Key>
+        <Key name="42991617">
+            <Value text="6|42991617|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="65011722">
+            <Value text="131|65011722|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="63963138">
+            <Value text="111|63963138|0|Unit/Name/ForceField|ForceField|Prot|0|0|0|0|0|15|0|0|0|0|0|0|0|0|1|0|720|1.5|Ground||0|"/>
+        </Key>
+        <Key name="71565313">
+            <Value text="108|71565313|2|Unit/Name/Nexus|Nexus|Prot|400|0|0|10|1|1000|0|0|1000|2|0|100|0.5625|0|1|0|719.4726|2.75|Ground|Footprint5x5Contour|11|"/>
+        </Key>
+        <Key name="56360961">
+            <Value text="55|56360961|2|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="55574529">
+            <Value text="52|55574529|1|Unit/Name/Pylon|Pylon|Prot|100|0|0|8|1|200|0|0|200|2|0|0|0|0|1|0|719.4726|1.125|Ground|Footprint2x2Contour|9|"/>
+        </Key>
+        <Key name="55312385">
+            <Value text="51|55312385|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="48234497">
+            <Value text="25|48234497|2|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="46399489">
+            <Value text="18|46399489|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="58720267">
+            <Value text="128|58720267|2|Unit/Name/Zealot|Zealot|Prot|100|0|2|0|1|100|0|0|50|2|0|0|0|2.25|1|1000|999.8437|0.5|Ground||9|"/>
+        </Key>
+        <Key name="69992449">
+            <Value text="102|69992449|2|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="69730305">
+            <Value text="101|69730305|1|Unit/Name/Sentry|Sentry|Prot|50|100|2|0|1|40|0|0|40|2|50|200|0.5625|2.25|1|1000|999.8437|0.5|Ground||10|"/>
+        </Key>
+        <Key name="67371009">
+            <Value text="92|67371009|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="57147393">
+            <Value text="58|57147393|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="53215233">
+            <Value text="43|53215233|2|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="66060289">
+            <Value text="87|66060289|2|Unit/Name/Immortal|Immortal|Prot|250|100|4|0|1|200|0|0|100|2|0|0|0|2.25|1|1000|720|0.75|Ground||9|"/>
+        </Key>
+        <Key name="54263809">
+            <Value text="47|54263809|2|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="69206017">
+            <Value text="99|69206017|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="60030977">
+            <Value text="67|60030977|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="52953089">
+            <Value text="42|52953089|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="50069505">
+            <Value text="32|50069505|1|Unit/Name/Pylon|Pylon|Prot|100|0|0|8|1|200|0|0|200|2|0|0|0|0|1|0|719.4726|1.125|Ground|Footprint2x2Contour|9|"/>
+        </Key>
+        <Key name="47710209">
+            <Value text="23|47710209|1|Unit/Name/Pylon|Pylon|Prot|100|0|0|8|1|200|0|0|200|2|0|0|0|0|1|0|719.4726|1.125|Ground|Footprint2x2Contour|9|"/>
+        </Key>
+        <Key name="59244545">
+            <Value text="64|59244545|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="47972353">
+            <Value text="24|47972353|2|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="67108870">
+            <Value text="122|67108870|2|Unit/Name/TemplarArchive|TemplarArchive|Prot|150|200|0|0|1|500|0|0|500|2|0|0|0|0|1|0|719.4726|1.8125|Ground|Footprint3x3Contour|9|"/>
+        </Key>
+        <Key name="65536003">
+            <Value text="118|65536003|2|Unit/Name/Zealot|Zealot|Prot|100|0|2|0|1|100|0|0|50|2|0|0|0|2.25|1|1000|999.8437|0.5|Ground||9|"/>
+        </Key>
+        <Key name="57933827">
+            <Value text="112|57933827|2|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="62128129">
+            <Value text="75|62128129|1|Unit/Name/Zealot|Zealot|Prot|100|0|2|0|1|100|0|0|50|2|0|0|0|2.25|1|1000|999.8437|0.5|Ground||9|"/>
+        </Key>
+        <Key name="52166657">
+            <Value text="39|52166657|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="51904513">
+            <Value text="38|51904513|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="67895297">
+            <Value text="94|67895297|2|Unit/Name/Stalker|Stalker|Prot|125|50|2|0|1|80|0|0|80|2|0|0|0|2.9531|1|1000|999.8437|0.625|Ground||10|"/>
+        </Key>
+        <Key name="57671681">
+            <Value text="59|57671681|1|Unit/Name/Gateway|Gateway|Prot|150|0|0|0|1|500|0|0|500|2|0|0|0|0|1|0|719.4726|1.8125|Ground|Footprint3x3Contour|9|"/>
+        </Key>
+        <Key name="55312386">
+            <Value text="123|55312386|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="65798145">
+            <Value text="86|65798145|2|Unit/Name/Stalker|Stalker|Prot|125|50|2|0|1|80|0|0|80|2|0|0|0|2.9531|1|1000|999.8437|0.625|Ground||10|"/>
+        </Key>
+        <Key name="65011717">
+            <Value text="119|65011717|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="54788097">
+            <Value text="49|54788097|1|Unit/Name/Gateway|Gateway|Prot|150|0|0|0|1|500|0|0|500|2|0|0|0|0|1|0|719.4726|1.8125|Ground|Footprint3x3Contour|9|"/>
+        </Key>
+        <Key name="54525953">
+            <Value text="48|54525953|2|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="71827457">
+            <Value text="109|71827457|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="66846721">
+            <Value text="90|66846721|2|Unit/Name/Stalker|Stalker|Prot|125|50|2|0|1|80|0|0|80|2|0|0|0|2.9531|1|1000|999.8437|0.625|Ground||10|"/>
+        </Key>
+        <Key name="58195969">
+            <Value text="61|58195969|2|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="49020929">
+            <Value text="28|49020929|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="48496641">
+            <Value text="26|48496641|2|Unit/Name/Gateway|Gateway|Prot|150|0|0|0|1|500|0|0|500|2|0|0|0|0|1|0|719.4726|1.8125|Ground|Footprint3x3Contour|9|"/>
+        </Key>
+        <Key name="46923777">
+            <Value text="20|46923777|2|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="70516737">
+            <Value text="104|70516737|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="64487425">
+            <Value text="82|64487425|2|Unit/Name/Pylon|Pylon|Prot|100|0|0|8|1|200|0|0|200|2|0|0|0|0|1|0|719.4726|1.125|Ground|Footprint2x2Contour|9|"/>
+        </Key>
+        <Key name="47448065">
+            <Value text="22|47448065|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="47448074">
+            <Value text="130|47448074|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="69206020">
+            <Value text="117|69206020|2|Unit/Name/Pylon|Pylon|Prot|100|0|0|8|1|200|0|0|200|2|0|0|0|0|1|0|719.4726|1.125|Ground|Footprint2x2Contour|9|"/>
+        </Key>
+        <Key name="61341697">
+            <Value text="72|61341697|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="52428801">
+            <Value text="40|52428801|2|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="67633153">
+            <Value text="93|67633153|2|Unit/Name/Stalker|Stalker|Prot|125|50|2|0|1|80|0|0|80|2|0|0|0|2.9531|1|1000|999.8437|0.625|Ground||10|"/>
+        </Key>
+        <Key name="66322433">
+            <Value text="88|66322433|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="61865985">
+            <Value text="74|61865985|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="54001665">
+            <Value text="46|54001665|1|Unit/Name/PhotonCannon|PhotonCannon|Prot|150|0|0|0|1|150|0|0|150|2|0|0|0|0|1|0|720|1.125|Ground|Footprint2x2Contour|11|"/>
+        </Key>
+        <Key name="51118081">
+            <Value text="35|51118081|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="72089604">
+            <Value text="110|72089604|1|Unit/Name/Gateway|Gateway|Prot|150|0|0|0|1|500|0|0|500|2|0|0|0|0|1|0|719.4726|1.8125|Ground|Footprint3x3Contour|9|"/>
+        </Key>
+        <Key name="65011713">
+            <Value text="83|65011713|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="56885249">
+            <Value text="57|56885249|2|Unit/Name/Pylon|Pylon|Prot|100|0|0|8|1|200|0|0|200|2|0|0|0|0|1|0|719.4726|1.125|Ground|Footprint2x2Contour|9|"/>
+        </Key>
+        <Key name="49807361">
+            <Value text="31|49807361|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="55050246">
+            <Value text="125|55050246|1|Unit/Name/Zealot|Zealot|Prot|100|0|2|0|1|100|0|0|50|2|0|0|0|2.25|1|1000|999.8437|0.5|Ground||9|"/>
+        </Key>
+        <Key name="55050241">
+            <Value text="50|55050241|2|Unit/Name/Zealot|Zealot|Prot|100|0|2|0|1|100|0|0|50|2|0|0|0|2.25|1|1000|999.8437|0.5|Ground||9|"/>
+        </Key>
+        <Key name="48758785">
+            <Value text="27|48758785|2|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="44564481">
+            <Value text="13|44564481|2|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="54001677">
+            <Value text="113|54001677|1|Unit/Name/Sentry|Sentry|Prot|50|100|2|0|1|40|0|0|40|2|50|200|0.5625|2.25|1|1000|999.8437|0.5|Ground||10|"/>
+        </Key>
+        <Key name="68157441">
+            <Value text="95|68157441|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="67108865">
+            <Value text="91|67108865|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="62652417">
+            <Value text="77|62652417|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="59506689">
+            <Value text="65|59506689|1|Unit/Name/CyberneticsCore|CyberneticsCore|Prot|150|0|0|0|1|550|0|0|550|2|0|0|0|0|1|0|719.4726|1.8125|Ground|Footprint3x3Contour|9|"/>
+        </Key>
+        <Key name="71041025">
+            <Value text="106|71041025|1|Unit/Name/Pylon|Pylon|Prot|100|0|0|8|1|200|0|0|200|2|0|0|0|0|1|0|719.4726|1.125|Ground|Footprint2x2Contour|9|"/>
+        </Key>
+        <Key name="58720257">
+            <Value text="62|58720257|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="68943873">
+            <Value text="98|68943873|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="68681729">
+            <Value text="97|68681729|2|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="61603841">
+            <Value text="73|61603841|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="60293121">
+            <Value text="68|60293121|2|Unit/Name/Pylon|Pylon|Prot|100|0|0|8|1|200|0|0|200|2|0|0|0|0|1|0|719.4726|1.125|Ground|Footprint2x2Contour|9|"/>
+        </Key>
+        <Key name="56098817">
+            <Value text="54|56098817|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="50593793">
+            <Value text="33|50593793|2|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="45875201">
+            <Value text="16|45875201|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="44040193">
+            <Value text="11|44040193|2|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+        <Key name="53739533">
+            <Value text="126|53739533|1|Unit/Name/Zealot|Zealot|Prot|100|0|2|0|1|100|0|0|50|2|0|0|0|2.25|1|1000|999.8437|0.5|Ground||9|"/>
+        </Key>
+        <Key name="42729473">
+            <Value text="1|42729473|1|Unit/Name/Probe|Probe|Prot|50|0|1|0|0|20|0|0|20|2|0|0|0|2.8125|1|2.5|999.8437|0.375|Ground||8|"/>
+        </Key>
+    </Section>
+    <Section name="BuildData">
+        <Key name="211">
+            <Value text="211|585.1875|5|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="122">
+            <Value text="122|373.1875|1|42205185|143.8034|52.8386|"/>
+        </Key>
+        <Key name="101">
+            <Value text="101|325.5|5|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="38">
+            <Value text="38|141.1875|1|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="210">
+            <Value text="210|583.5|1|48758785|18.854|127.1123|"/>
+        </Key>
+        <Key name="154">
+            <Value text="154|452.625|1|53477377|142.5|58.5|"/>
+        </Key>
+        <Key name="60">
+            <Value text="60|206.125|1|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="41">
+            <Value text="41|146.1875|1|50593793|27.8525|132.2846|"/>
+        </Key>
+        <Key name="28">
+            <Value text="28|109.9375|1|43515905|128.9902|53.7854|"/>
+        </Key>
+        <Key name="25">
+            <Value text="25|101.25|1|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="186">
+            <Value text="186|544.3125|1|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="117">
+            <Value text="117|366.3125|1|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="57">
+            <Value text="57|195|5|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="30">
+            <Value text="30|112.625|1|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="141">
+            <Value text="141|426.9375|5|53477377|142.5|58.5|"/>
+        </Key>
+        <Key name="6">
+            <Value text="6|20.25|1|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="1">
+            <Value text="1|1.125|1|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="91">
+            <Value text="91|294.125|5|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="73">
+            <Value text="73|251.25|5|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="39">
+            <Value text="39|142|5|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="165">
+            <Value text="165|475.75|1|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="81">
+            <Value text="81|270|1|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="66">
+            <Value text="66|230.5625|5|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="203">
+            <Value text="203|571.8125|5|57671681|129.5|57.5|"/>
+        </Key>
+        <Key name="120">
+            <Value text="120|370.5|1|54263809|26.5273|121.0661|"/>
+        </Key>
+        <Key name="59">
+            <Value text="59|206.125|5|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="35">
+            <Value text="35|127.125|5|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="8">
+            <Value text="8|35.0625|1|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="216">
+            <Value text="216|602.125|1|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="215">
+            <Value text="215|602.125|5|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="118">
+            <Value text="118|366.4375|1|53477377|142.5|58.5|"/>
+        </Key>
+        <Key name="110">
+            <Value text="110|346.625|5|53477377|142.5|58.5|"/>
+        </Key>
+        <Key name="90">
+            <Value text="90|292.9375|1|53477377|142.5|58.5|"/>
+        </Key>
+        <Key name="193">
+            <Value text="193|558.5|5|48496641|34.5|137.5|"/>
+        </Key>
+        <Key name="150">
+            <Value text="150|442.9375|5|48496641|34.5|137.5|"/>
+        </Key>
+        <Key name="2">
+            <Value text="2|1.4375|1|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="204">
+            <Value text="204|571.8125|1|57671681|129.5|57.5|"/>
+        </Key>
+        <Key name="185">
+            <Value text="185|535.625|1|53215233|29.8537|130.821|"/>
+        </Key>
+        <Key name="132">
+            <Value text="132|403.5|1|61079553|21.5|125.5|"/>
+        </Key>
+        <Key name="126">
+            <Value text="126|383.25|1|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="124">
+            <Value text="124|381.5625|1|42205185|142.1335|64.5424|"/>
+        </Key>
+        <Key name="171">
+            <Value text="171|491.6875|1|68419585|140.4018|55.9775|"/>
+        </Key>
+        <Key name="65">
+            <Value text="65|225.4375|1|48496641|34.5|137.5|"/>
+        </Key>
+        <Key name="11">
+            <Value text="11|50.8125|1|46137345|33.9116|135.4602|"/>
+        </Key>
+        <Key name="205">
+            <Value text="205|571.8125|1|44564481|34.5083|126.061|"/>
+        </Key>
+        <Key name="217">
+            <Value text="217|603.8125|2|57671681|129.5|57.5|"/>
+        </Key>
+        <Key name="195">
+            <Value text="195|565.625|5|61079553|21.5|125.5|"/>
+        </Key>
+        <Key name="78">
+            <Value text="78|262.375|1|44302337|29.1262|141.904|"/>
+        </Key>
+        <Key name="61">
+            <Value text="61|213.625|1|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="15">
+            <Value text="15|54.0625|1|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="179">
+            <Value text="179|507.3125|5|57671681|129.5|57.5|"/>
+        </Key>
+        <Key name="108">
+            <Value text="108|342.4375|5|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="34">
+            <Value text="34|126.125|1|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="123">
+            <Value text="123|375.4375|1|54263809|20.1523|123.2026|"/>
+        </Key>
+        <Key name="136">
+            <Value text="136|415.0625|1|53477377|142.5|58.5|"/>
+        </Key>
+        <Key name="58">
+            <Value text="58|205.375|1|42205185|127.4802|57.2387|"/>
+        </Key>
+        <Key name="29">
+            <Value text="29|112.625|5|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="16">
+            <Value text="16|63.5|5|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="208">
+            <Value text="208|582.875|2|53477377|142.5|58.5|"/>
+        </Key>
+        <Key name="156">
+            <Value text="156|458.8125|1|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="147">
+            <Value text="147|437.9375|1|48496641|34.5|137.5|"/>
+        </Key>
+        <Key name="160">
+            <Value text="160|464.625|1|53477377|142.5|58.5|"/>
+        </Key>
+        <Key name="134">
+            <Value text="134|408.5625|5|55836673|26.5|131.5|"/>
+        </Key>
+        <Key name="121">
+            <Value text="121|372.25|5|48496641|34.5|137.5|"/>
+        </Key>
+        <Key name="9">
+            <Value text="9|37.1875|5|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="192">
+            <Value text="192|557|1|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="184">
+            <Value text="184|533.875|1|57671681|129.5|57.5|"/>
+        </Key>
+        <Key name="139">
+            <Value text="139|416.125|1|55836673|26.5|131.5|"/>
+        </Key>
+        <Key name="68">
+            <Value text="68|232|1|46923777|25.065|132.362|"/>
+        </Key>
+        <Key name="200">
+            <Value text="200|568.9375|1|53477377|142.5|58.5|"/>
+        </Key>
+        <Key name="96">
+            <Value text="96|309.875|5|53477377|142.5|58.5|"/>
+        </Key>
+        <Key name="3">
+            <Value text="3|18.125|5|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="169">
+            <Value text="169|477.625|5|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="180">
+            <Value text="180|508.4375|1|48234497|25.6528|123.9152|"/>
+        </Key>
+        <Key name="84">
+            <Value text="84|278.6875|1|48496641|34.5|137.5|"/>
+        </Key>
+        <Key name="190">
+            <Value text="190|556.75|1|53477377|142.5|58.5|"/>
+        </Key>
+        <Key name="172">
+            <Value text="172|492.625|5|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="162">
+            <Value text="162|467.25|5|54788097|124.5|54.5|"/>
+        </Key>
+        <Key name="137">
+            <Value text="137|415.75|5|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="131">
+            <Value text="131|403.0625|1|53477377|142.5|58.5|"/>
+        </Key>
+        <Key name="116">
+            <Value text="116|363.375|1|51904513|139.7963|20.8322|"/>
+        </Key>
+        <Key name="164">
+            <Value text="164|475.75|5|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="161">
+            <Value text="161|467|5|55836673|26.5|131.5|"/>
+        </Key>
+        <Key name="10">
+            <Value text="10|38.25|1|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="209">
+            <Value text="209|582.875|4|53477377|142.5|58.5|"/>
+        </Key>
+        <Key name="152">
+            <Value text="152|443.75|1|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="94">
+            <Value text="94|306.6875|5|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="88">
+            <Value text="88|290|5|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="45">
+            <Value text="45|153.3125|1|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="23">
+            <Value text="23|96.6875|1|45088769|32.83|137.8261|"/>
+        </Key>
+        <Key name="197">
+            <Value text="197|568.3125|5|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="188">
+            <Value text="188|553.5|1|48496641|34.5|137.5|"/>
+        </Key>
+        <Key name="138">
+            <Value text="138|415.75|1|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="21">
+            <Value text="21|87.375|1|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="198">
+            <Value text="198|568.3125|1|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="194">
+            <Value text="194|560.625|1|61079553|21.5|125.5|"/>
+        </Key>
+        <Key name="178">
+            <Value text="178|505.8125|1|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="50">
+            <Value text="50|174.5|1|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="163">
+            <Value text="163|470.375|1|57671681|129.5|57.5|"/>
+        </Key>
+        <Key name="148">
+            <Value text="148|441|5|61079553|21.5|125.5|"/>
+        </Key>
+        <Key name="128">
+            <Value text="128|384.625|1|48496641|34.5|137.5|"/>
+        </Key>
+        <Key name="80">
+            <Value text="80|266.8125|1|42205185|131.162|59.761|"/>
+        </Key>
+        <Key name="52">
+            <Value text="52|183.6875|1|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="7">
+            <Value text="7|35.0625|5|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="182">
+            <Value text="182|522.8125|5|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="99">
+            <Value text="99|316.6875|5|48496641|34.5|137.5|"/>
+        </Key>
+        <Key name="98">
+            <Value text="98|314.75|1|54788097|124.5|54.5|"/>
+        </Key>
+        <Key name="167">
+            <Value text="167|476.5625|5|53477377|142.5|58.5|"/>
+        </Key>
+        <Key name="125">
+            <Value text="125|383.25|5|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="75">
+            <Value text="75|253.625|1|51642369|26.2316|125.8962|"/>
+        </Key>
+        <Key name="53">
+            <Value text="53|187.4375|1|48496641|34.5|137.5|"/>
+        </Key>
+        <Key name="17">
+            <Value text="17|67.875|1|42991617|133.1286|50.3425|"/>
+        </Key>
+        <Key name="12">
+            <Value text="12|52|5|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="191">
+            <Value text="191|557|5|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="153">
+            <Value text="153|443.875|5|53477377|142.5|58.5|"/>
+        </Key>
+        <Key name="105">
+            <Value text="105|332.9375|5|53477377|142.5|58.5|"/>
+        </Key>
+        <Key name="67">
+            <Value text="67|231.1875|1|42205185|130.4724|55.9804|"/>
+        </Key>
+        <Key name="5">
+            <Value text="5|18.375|5|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="83">
+            <Value text="83|278.625|1|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="72">
+            <Value text="72|248.4375|1|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="14">
+            <Value text="14|52.1875|1|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="106">
+            <Value text="106|334.4375|1|53477377|142.5|58.5|"/>
+        </Key>
+        <Key name="49">
+            <Value text="49|172.375|1|46137345|33.182|133.527|"/>
+        </Key>
+        <Key name="187">
+            <Value text="187|545.0625|1|53477377|142.5|58.5|"/>
+        </Key>
+        <Key name="168">
+            <Value text="168|476.5625|1|53477377|142.5|58.5|"/>
+        </Key>
+        <Key name="77">
+            <Value text="77|259.875|5|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="40">
+            <Value text="40|142|1|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="97">
+            <Value text="97|311.625|1|50593793|21.1652|131.1748|"/>
+        </Key>
+        <Key name="213">
+            <Value text="213|594.625|1|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="177">
+            <Value text="177|503.9375|5|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="76">
+            <Value text="76|254.25|1|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="133">
+            <Value text="133|408.5|5|61079553|21.5|125.5|"/>
+        </Key>
+        <Key name="114">
+            <Value text="114|359.375|5|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="109">
+            <Value text="109|342.4375|1|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="104">
+            <Value text="104|328.9375|1|57671681|129.5|57.5|"/>
+        </Key>
+        <Key name="111">
+            <Value text="111|352.6875|5|54788097|124.5|54.5|"/>
+        </Key>
+        <Key name="86">
+            <Value text="86|282.8125|5|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="127">
+            <Value text="127|383.375|5|53477377|142.5|58.5|"/>
+        </Key>
+        <Key name="95">
+            <Value text="95|308.5625|1|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="140">
+            <Value text="140|426.625|5|48496641|34.5|137.5|"/>
+        </Key>
+        <Key name="107">
+            <Value text="107|336.625|1|48496641|34.5|137.5|"/>
+        </Key>
+        <Key name="62">
+            <Value text="62|223.0625|5|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="115">
+            <Value text="115|360.625|1|51904513|138.8842|17.8415|"/>
+        </Key>
+        <Key name="103">
+            <Value text="103|327.125|1|44302337|21.836|127.1228|"/>
+        </Key>
+        <Key name="43">
+            <Value text="43|152.5|1|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="206">
+            <Value text="206|573.0625|1|48496641|34.5|137.5|"/>
+        </Key>
+        <Key name="201">
+            <Value text="201|571.5625|5|54788097|124.5|54.5|"/>
+        </Key>
+        <Key name="196">
+            <Value text="196|565.625|1|58982401|29.831|127.1684|"/>
+        </Key>
+        <Key name="170">
+            <Value text="170|486.1875|1|68419585|142.182|61.7197|"/>
+        </Key>
+        <Key name="44">
+            <Value text="44|153.3125|5|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="158">
+            <Value text="158|460.6875|1|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="214">
+            <Value text="214|594.9375|1|71565313|25.5|101.5|"/>
+        </Key>
+        <Key name="85">
+            <Value text="85|281.8125|1|51904513|149.2702|26.208|"/>
+        </Key>
+        <Key name="48">
+            <Value text="48|167.9375|5|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="32">
+            <Value text="32|118.0625|1|43515905|124.223|52.879|"/>
+        </Key>
+        <Key name="82">
+            <Value text="82|271|5|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="218">
+            <Value text="218|603.8125|4|57671681|129.5|57.5|"/>
+        </Key>
+        <Key name="212">
+            <Value text="212|585.1875|1|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="93">
+            <Value text="93|303.8125|1|42205185|132.7355|57.8571|"/>
+        </Key>
+        <Key name="51">
+            <Value text="51|183.6875|5|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="36">
+            <Value text="36|127.125|1|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="22">
+            <Value text="22|92.875|1|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="135">
+            <Value text="135|415.0625|5|53477377|142.5|58.5|"/>
+        </Key>
+        <Key name="119">
+            <Value text="119|366.875|5|57671681|129.5|57.5|"/>
+        </Key>
+        <Key name="33">
+            <Value text="33|118.8125|1|45613057|18.4802|133.8715|"/>
+        </Key>
+        <Key name="31">
+            <Value text="31|116.875|5|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="4">
+            <Value text="4|18.125|1|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="46">
+            <Value text="46|167|5|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="173">
+            <Value text="173|492.625|1|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="143">
+            <Value text="143|427.0625|5|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="89">
+            <Value text="89|290|1|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="87">
+            <Value text="87|282.8125|1|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="71">
+            <Value text="71|248.4375|5|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="189">
+            <Value text="189|556.75|5|53477377|142.5|58.5|"/>
+        </Key>
+        <Key name="69">
+            <Value text="69|234.25|1|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="19">
+            <Value text="19|75.8125|1|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="129">
+            <Value text="129|400.1875|5|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="54">
+            <Value text="54|187.8125|5|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="47">
+            <Value text="47|167|1|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="181">
+            <Value text="181|513.25|5|54788097|124.5|54.5|"/>
+        </Key>
+        <Key name="151">
+            <Value text="151|443.75|5|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="144">
+            <Value text="144|427.0625|1|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="27">
+            <Value text="27|104.75|1|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="26">
+            <Value text="26|104.75|5|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="70">
+            <Value text="70|236|1|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="20">
+            <Value text="20|87.375|5|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="199">
+            <Value text="199|568.9375|5|53477377|142.5|58.5|"/>
+        </Key>
+        <Key name="175">
+            <Value text="175|493.5|5|53477377|142.5|58.5|"/>
+        </Key>
+        <Key name="174">
+            <Value text="174|492.75|1|45350913|27.1635|103.0566|"/>
+        </Key>
+        <Key name="155">
+            <Value text="155|458.8125|5|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="202">
+            <Value text="202|571.5625|1|54788097|124.5|54.5|"/>
+        </Key>
+        <Key name="157">
+            <Value text="157|460.6875|5|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="142">
+            <Value text="142|426.9375|1|53477377|142.5|58.5|"/>
+        </Key>
+        <Key name="166">
+            <Value text="166|476.3125|1|54788097|124.5|54.5|"/>
+        </Key>
+        <Key name="159">
+            <Value text="159|464.625|5|53477377|142.5|58.5|"/>
+        </Key>
+        <Key name="112">
+            <Value text="112|355.5625|5|55836673|26.5|131.5|"/>
+        </Key>
+        <Key name="64">
+            <Value text="64|225.4375|5|48496641|34.5|137.5|"/>
+        </Key>
+        <Key name="207">
+            <Value text="207|578.0625|5|48496641|34.5|137.5|"/>
+        </Key>
+        <Key name="183">
+            <Value text="183|533.625|1|54788097|124.5|54.5|"/>
+        </Key>
+        <Key name="149">
+            <Value text="149|441.8125|1|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="92">
+            <Value text="92|300.5625|1|55836673|26.5|131.5|"/>
+        </Key>
+        <Key name="74">
+            <Value text="74|253.375|5|48496641|34.5|137.5|"/>
+        </Key>
+        <Key name="146">
+            <Value text="146|436|1|61079553|21.5|125.5|"/>
+        </Key>
+        <Key name="79">
+            <Value text="79|262.5|1|42205185|131.0361|56.8762|"/>
+        </Key>
+        <Key name="37">
+            <Value text="37|141.1875|5|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="113">
+            <Value text="113|355.625|1|55836673|26.5|131.5|"/>
+        </Key>
+        <Key name="100">
+            <Value text="100|321.0625|1|53477377|142.5|58.5|"/>
+        </Key>
+        <Key name="176">
+            <Value text="176|495.875|1|68419585|134.1777|56.3881|"/>
+        </Key>
+        <Key name="130">
+            <Value text="130|402.875|1|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="102">
+            <Value text="102|325.5|1|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="55">
+            <Value text="55|191.875|1|42205185|141.8776|56.1943|"/>
+        </Key>
+        <Key name="42">
+            <Value text="42|152.5|5|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="24">
+            <Value text="24|99|5|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="13">
+            <Value text="13|52.1875|5|41943041|143.5|23.5|"/>
+        </Key>
+        <Key name="145">
+            <Value text="145|430.3125|1|54788097|124.5|54.5|"/>
+        </Key>
+        <Key name="63">
+            <Value text="63|223.5625|1|42205185|125.6948|53.3264|"/>
+        </Key>
+        <Key name="56">
+            <Value text="56|192.875|1|43778049|24.5|136.5|"/>
+        </Key>
+        <Key name="18">
+            <Value text="18|71.0625|5|43778049|24.5|136.5|"/>
+        </Key>
+    </Section>
+    <Section name="MatchData">
+        <Key name="MatchData">
+            <Value text="MDCL-88BF7A88D8172D7F8B194955B154A5DB|Akilon Wastes (MDCL)|0|5|"/>
+        </Key>
+    </Section>
+    <Section name="ResearchData">
+        <Key name="4">
+            <Value text="4|533.9375|5|WarpGateResearch|59506689|132.5|59.5|"/>
+        </Key>
+        <Key name="1">
+            <Value text="1|239.875|1|WarpGateResearch|52690945|34.5|132.5|"/>
+        </Key>
+        <Key name="3">
+            <Value text="3|394|1|WarpGateResearch|59506689|132.5|59.5|"/>
+        </Key>
+        <Key name="2">
+            <Value text="2|389.875|5|WarpGateResearch|52690945|34.5|132.5|"/>
+        </Key>
+    </Section>
+    <Section name="PeriodicData">
+        <Key name="241">
+            <Value text="241|605.375|1|0|689|617|-475|0|395|425|62.4082|100|0|3740|0|0|0|5980|0|0|5250|0|780|980|96|0|350|0|630|6|58|0|10|2|50|0|0|53|550|300|3|325|50|4|46|49|18|5|0|0|500|600|50|0|"/>
+        </Key>
+        <Key name="235">
+            <Value text="235|594|1|0|640|603|-475|0|395|425|56.0098|100|0|3045|0|0|0|5980|20|0|5350|0|680|964|96|0|350|0|614|8|58|0|10|4|49|0|0|52|550|300|3|325|50|4|45|48|18|3|0|0|800|300|50|0|"/>
+        </Key>
+        <Key name="211">
+            <Value text="211|534|1|72|1385|483|-475|0|172|375|107.322|200|0|840|0|0|0|5960|360|0|4800|0|1210|860|256|0|350|0|510|36|68|0|0|4|42|0|0|16|350|300|1|125|50|32|11|43|17|2|0|0|650|300|50|0|"/>
+        </Key>
+        <Key name="122">
+            <Value text="122|306|2|84|133|92|0|0|0|150|20.178|100|0|0|0|0|0|2455|700|0|2450|0|55|304|176|0|250|0|54|34|34|0|0|10|19|200|0|0|0|0|0|0|0|24|0|23|8|0|0|0|500|0|100|0|"/>
+        </Key>
+        <Key name="101">
+            <Value text="101|258|1|0|158|0|0|0|0|125|18.2036|200|0|0|0|0|0|2045|700|0|1850|0|245|0|0|0|0|0|0|20|34|0|0|0|13|0|0|0|0|0|0|0|0|20|0|19|5|0|0|0|300|0|0|0|"/>
+        </Key>
+        <Key name="38">
+            <Value text="38|96|2|12|92|0|0|0|0|25|28.6179|100|0|0|0|0|0|515|420|0|550|0|15|0|0|0|0|0|0|12|18|0|0|0|5|0|0|0|0|0|0|0|0|12|0|11|1|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="210">
+            <Value text="210|528|2|216|204|302|475|0|760|275|19.6636|200|0|168|0|0|0|5020|720|0|4775|0|295|1124|176|0|800|0|324|54|58|0|0|26|33|1550|500|1|125|50|12|350|300|28|0|28|12|0|2|0|700|0|150|0|"/>
+        </Key>
+        <Key name="154">
+            <Value text="154|390|2|120|53|169|0|0|0|200|17.428|100|0|0|0|0|0|3410|660|0|3400|0|60|616|240|0|450|0|166|42|42|0|0|18|23|675|150|0|0|0|0|0|0|24|0|24|9|0|0|0|550|0|150|0|"/>
+        </Key>
+        <Key name="60">
+            <Value text="60|150|2|108|49|0|0|0|0|75|8.3118|100|0|0|0|0|0|935|500|0|975|0|10|0|0|0|0|0|0|16|18|0|0|0|9|0|0|0|0|0|0|0|0|16|0|15|2|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="41">
+            <Value text="41|108|1|24|170|0|0|0|0|50|10.0945|100|0|0|0|0|0|570|380|0|550|0|70|0|0|0|0|0|0|12|18|0|0|0|5|0|0|0|0|0|0|0|0|12|0|11|1|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="28">
+            <Value text="28|72|2|0|55|0|0|0|0|0|40.5|100|0|0|0|0|0|350|360|0|300|0|100|0|0|0|0|0|0|10|10|0|0|0|4|0|0|0|0|0|0|0|0|10|0|10|0|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="25">
+            <Value text="25|66|1|24|105|0|0|0|0|25|11.7368|100|0|0|0|0|0|295|320|0|200|0|145|0|0|0|0|0|0|10|10|0|0|0|4|0|0|0|0|0|0|0|0|10|0|10|0|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="186">
+            <Value text="186|468|2|108|157|184|0|0|0|250|11.303|100|0|0|0|0|0|4325|700|0|4175|0|200|916|240|0|700|0|216|54|58|0|0|28|30|1675|550|0|0|0|0|0|0|26|0|25|12|0|0|0|700|0|150|0|"/>
+        </Key>
+        <Key name="117">
+            <Value text="117|300|1|0|146|0|0|0|0|150|21.019|200|0|0|0|0|0|2540|740|0|2375|0|215|0|0|0|0|0|0|23|44|0|0|0|16|0|0|0|0|0|0|0|0|23|0|22|7|0|0|0|450|0|0|0|"/>
+        </Key>
+        <Key name="57">
+            <Value text="57|150|1|0|127|0|0|0|0|75|8.396|100|0|0|0|0|0|890|500|0|750|0|190|0|0|0|0|0|0|14|26|0|0|0|7|0|0|0|0|0|0|0|0|14|0|13|2|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="30">
+            <Value text="30|78|2|24|86|0|0|0|0|25|18.8445|100|0|0|0|0|0|390|360|0|350|0|90|0|0|0|0|0|0|11|18|0|0|0|4|0|0|0|0|0|0|0|0|11|0|10|1|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="141">
+            <Value text="141|360|1|72|335|0|0|0|0|200|37.844|200|0|0|0|0|0|3390|940|0|3050|0|390|4|16|0|0|0|4|32|44|0|0|4|23|100|0|0|0|0|0|0|0|28|0|28|11|0|0|0|900|0|0|0|"/>
+        </Key>
+        <Key name="6">
+            <Value text="6|18|2|12|15|0|0|0|0|0|10.125|100|0|0|0|0|0|60|240|0|100|0|10|0|0|0|0|0|0|7|10|0|0|0|0|0|0|0|0|0|0|0|0|7|0|6|0|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="1">
+            <Value text="1|6|1|48|12|0|0|0|0|0|3.375|100|0|0|0|0|0|0|0|0|50|0|0|0|0|0|0|0|0|7|10|0|0|0|0|0|0|0|0|0|0|0|0|7|0|6|0|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="232">
+            <Value text="232|582|2|132|251|274|475|0|2563|300|25.0386|200|0|395|0|0|0|5700|760|0|5575|0|175|1304|224|0|1000|0|304|56|66|0|0|28|36|1650|500|3|325|50|50|550|300|28|0|28|14|0|2|0|850|0|250|0|"/>
+        </Key>
+        <Key name="91">
+            <Value text="91|234|1|84|94|0|0|0|0|100|30.0674|200|0|0|0|0|0|1760|640|0|1750|0|60|0|0|0|0|0|0|18|26|0|0|0|12|0|0|0|0|0|0|0|0|18|0|18|3|0|0|0|150|0|0|0|"/>
+        </Key>
+        <Key name="73">
+            <Value text="73|186|1|36|353|0|0|0|0|100|3.4019|100|0|0|0|0|0|1240|600|0|900|0|390|0|0|0|0|0|0|17|26|0|0|0|10|0|0|0|0|0|0|0|0|17|0|16|3|0|0|0|150|0|0|0|"/>
+        </Key>
+        <Key name="39">
+            <Value text="39|102|1|48|147|0|0|0|0|50|6.8367|100|0|0|0|0|0|530|400|0|400|0|180|0|0|0|0|0|0|11|18|0|0|0|4|0|0|0|0|0|0|0|0|11|0|10|1|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="165">
+            <Value text="165|420|1|36|504|58|0|0|0|250|54.708|200|0|0|0|0|0|4290|920|0|3800|0|540|128|144|0|50|0|78|39|52|0|0|4|29|200|0|0|0|0|0|0|0|35|0|33|15|0|0|0|900|0|0|0|"/>
+        </Key>
+        <Key name="81">
+            <Value text="81|210|1|96|117|0|0|0|0|100|16.5674|200|0|0|0|0|0|1495|640|0|1450|0|95|0|0|0|0|0|0|17|26|0|0|0|11|0|0|0|0|0|0|0|0|17|0|17|3|0|0|0|150|0|0|0|"/>
+        </Key>
+        <Key name="66">
+            <Value text="66|168|2|48|88|13|0|0|0|75|18.3318|100|0|0|0|0|0|1075|440|0|1125|0|0|28|112|0|0|0|28|17|18|0|0|0|11|0|0|0|0|0|0|0|0|17|0|17|3|0|0|0|150|0|0|0|"/>
+        </Key>
+        <Key name="203">
+            <Value text="203|510|1|60|1045|313|-175|0|116|375|80.322|200|0|540|0|0|0|5725|1000|0|4600|0|1175|724|464|0|350|0|374|47|52|0|0|4|40|50|100|3|250|100|1|125|50|43|0|42|15|2|0|0|600|300|0|0|"/>
+        </Key>
+        <Key name="120">
+            <Value text="120|300|2|48|155|112|0|0|0|150|16.803|100|0|0|0|0|0|2390|720|0|2200|0|240|280|128|0|150|0|130|30|34|0|0|6|19|200|0|0|0|0|0|0|0|24|0|23|8|0|0|0|500|0|100|0|"/>
+        </Key>
+        <Key name="59">
+            <Value text="59|150|1|0|127|0|0|0|0|75|8.396|100|0|0|0|0|0|890|500|0|750|0|190|0|0|0|0|0|0|14|26|0|0|0|7|0|0|0|0|0|0|0|0|14|0|13|2|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="35">
+            <Value text="35|90|1|0|108|0|0|0|0|25|25.2356|100|0|0|0|0|0|455|400|0|350|0|155|0|0|0|0|0|0|10|10|0|0|0|4|0|0|0|0|0|0|0|0|10|0|10|0|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="8">
+            <Value text="8|24|2|0|22|0|0|0|0|0|13.5|100|0|0|0|0|0|90|240|0|100|0|40|0|0|0|0|0|0|8|10|0|0|0|1|0|0|0|0|0|0|0|0|8|0|7|0|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="216">
+            <Value text="216|540|2|288|302|340|475|0|920|275|26.4136|200|0|172|0|0|0|5170|740|0|4875|0|345|1160|160|0|800|0|360|54|58|0|0|26|33|1550|500|1|125|50|20|350|300|28|0|28|12|0|2|0|700|0|150|0|"/>
+        </Key>
+        <Key name="215">
+            <Value text="215|540|1|36|1270|506|-475|0|172|375|114.072|200|0|920|0|0|0|5960|40|0|5000|0|1010|876|176|0|350|0|526|32|68|0|0|4|42|0|0|20|350|300|1|125|50|28|15|43|17|2|0|0|650|300|50|0|"/>
+        </Key>
+        <Key name="118">
+            <Value text="118|300|2|48|155|112|0|0|0|150|16.803|100|0|0|0|0|0|2390|720|0|2200|0|240|280|128|0|150|0|130|30|34|0|0|6|19|200|0|0|0|0|0|0|0|24|0|23|8|0|0|0|500|0|100|0|"/>
+        </Key>
+        <Key name="110">
+            <Value text="110|276|2|96|74|66|0|0|0|150|3.5837|100|0|0|0|0|0|2105|620|0|2000|0|155|232|96|0|150|0|82|26|26|0|0|4|18|200|0|0|0|0|0|0|0|22|0|22|5|0|0|0|300|0|0|0|"/>
+        </Key>
+        <Key name="90">
+            <Value text="90|228|2|96|134|129|0|0|0|125|1.6924|100|0|0|0|0|0|1605|580|0|1475|0|180|144|112|0|0|0|144|24|26|0|0|4|15|100|0|0|0|0|0|0|0|20|0|20|5|0|0|0|300|0|0|0|"/>
+        </Key>
+        <Key name="243">
+            <Value text="243|605.375|1|0|689|617|-475|0|395|425|62.4082|100|0|3740|0|0|0|5980|0|0|5250|0|780|980|96|0|350|0|630|6|58|0|10|2|50|0|0|53|550|300|3|325|50|4|46|49|18|5|0|0|500|600|50|0|"/>
+        </Key>
+        <Key name="219">
+            <Value text="219|552|1|24|781|534|-375|0|377|425|77.3889|200|0|1316|0|0|0|5960|0|0|5500|0|510|900|128|0|350|0|550|15|68|0|0|4|42|0|0|39|350|300|2|225|50|11|34|43|17|2|0|0|650|300|50|0|"/>
+        </Key>
+        <Key name="193">
+            <Value text="193|486|1|48|1029|164|0|0|0|325|53.322|200|0|0|0|0|0|5340|960|0|4350|0|1040|540|480|0|350|0|190|52|52|0|0|10|38|250|100|0|0|0|0|0|0|42|0|41|15|0|0|0|900|0|0|0|"/>
+        </Key>
+        <Key name="150">
+            <Value text="150|378|2|96|46|142|0|0|0|200|10.678|100|0|0|0|0|0|3275|680|0|3275|0|50|572|224|0|400|0|172|40|42|0|0|16|23|675|150|0|0|0|0|0|0|24|0|24|9|0|0|0|500|0|100|0|"/>
+        </Key>
+        <Key name="2">
+            <Value text="2|6|2|12|10|0|0|0|0|0|3.375|100|0|0|0|0|0|0|0|0|50|0|0|0|0|0|0|0|0|7|10|0|0|0|0|0|0|0|0|0|0|0|0|7|0|6|0|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="204">
+            <Value text="204|510|2|204|71|299|175|0|540|275|9.585|200|0|116|0|0|0|4800|700|0|4775|0|75|1068|224|0|800|0|268|54|58|0|0|26|33|1550|500|1|125|50|3|250|100|28|0|28|12|0|2|0|700|0|150|0|"/>
+        </Key>
+        <Key name="185">
+            <Value text="185|468|1|60|889|190|0|0|0|325|33.2002|200|0|0|0|0|0|5055|860|0|4150|0|955|400|448|0|150|0|250|47|52|0|0|6|36|250|100|0|0|0|0|0|0|41|0|39|15|0|0|0|900|0|0|0|"/>
+        </Key>
+        <Key name="132">
+            <Value text="132|330|2|84|73|113|0|0|0|175|8.678|100|0|0|0|0|0|2725|680|0|2700|0|75|388|208|0|250|0|138|34|34|0|0|10|21|300|0|0|0|0|0|0|0|24|0|24|8|0|0|0|500|0|100|0|"/>
+        </Key>
+        <Key name="126">
+            <Value text="126|318|2|60|50|70|0|0|0|175|1.928|100|0|0|0|0|0|2580|600|0|2550|0|80|348|208|0|250|0|98|34|34|0|0|10|21|300|0|0|0|0|0|0|0|24|0|24|8|0|0|0|500|0|100|0|"/>
+        </Key>
+        <Key name="124">
+            <Value text="124|312|2|72|84|72|0|0|0|150|23.553|100|0|0|0|0|0|2515|640|0|2550|0|15|328|224|0|250|0|78|34|34|0|0|10|20|200|0|0|0|0|0|0|0|24|0|24|8|0|0|0|500|0|100|0|"/>
+        </Key>
+        <Key name="226">
+            <Value text="226|570|2|144|345|311|275|0|2010|300|18.2886|200|0|395|0|0|0|5545|740|0|5325|0|270|1260|192|0|1000|0|260|54|66|0|0|26|35|1550|500|3|325|50|47|350|300|28|0|28|14|0|2|0|850|0|250|0|"/>
+        </Key>
+        <Key name="171">
+            <Value text="171|432|1|36|577|82|0|0|0|275|42.9614|200|0|0|0|0|0|4500|980|0|3900|0|650|172|224|0|150|0|22|43|52|0|0|6|31|200|0|0|0|0|0|0|0|37|0|35|15|0|0|0|900|0|0|0|"/>
+        </Key>
+        <Key name="65">
+            <Value text="65|168|1|12|234|0|0|0|0|75|18.3318|100|0|0|0|0|0|1060|600|0|850|0|260|0|0|0|0|0|0|16|26|0|0|0|9|0|0|0|0|0|0|0|0|16|0|15|3|0|0|0|150|0|0|0|"/>
+        </Key>
+        <Key name="11">
+            <Value text="11|30|1|0|39|0|0|0|0|0|16.875|100|0|0|0|0|0|110|300|0|100|0|60|0|0|0|0|0|0|8|10|0|0|0|1|0|0|0|0|0|0|0|0|8|0|7|0|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="205">
+            <Value text="205|516|1|48|1145|360|-175|0|131|375|87.072|200|0|580|0|0|0|5825|1000|0|4600|0|1275|764|448|0|350|0|414|45|60|0|0|2|41|50|100|4|300|200|1|125|50|43|0|42|16|2|0|0|600|300|0|0|"/>
+        </Key>
+        <Key name="224">
+            <Value text="224|564|2|84|427|370|275|0|1440|300|14.9136|200|0|395|0|0|0|5480|800|0|5225|0|305|1240|192|0|1000|0|240|54|66|0|0|26|34|1450|500|3|325|50|46|350|300|28|0|28|14|0|2|0|850|0|250|0|"/>
+        </Key>
+        <Key name="217">
+            <Value text="217|546|1|192|1081|521|-475|0|245|375|120.822|200|0|1132|0|0|0|5960|0|0|5500|0|510|888|144|0|350|0|538|24|68|0|0|4|42|0|0|30|350|300|1|125|50|20|25|43|17|2|0|0|650|300|50|0|"/>
+        </Key>
+        <Key name="195">
+            <Value text="195|492|1|24|1039|174|0|0|0|325|60.072|200|0|0|0|0|0|5425|900|0|4450|0|1025|580|448|0|350|0|230|52|52|0|0|10|38|250|100|0|0|0|0|0|0|42|0|41|15|0|0|0|900|0|0|0|"/>
+        </Key>
+        <Key name="78">
+            <Value text="78|198|2|72|36|71|0|0|0|100|9.8638|100|0|0|0|0|0|1315|500|0|1325|0|40|84|112|0|0|0|84|21|26|0|0|2|12|0|0|0|0|0|0|0|0|19|0|18|4|0|0|0|150|0|0|0|"/>
+        </Key>
+        <Key name="61">
+            <Value text="61|156|1|12|167|0|0|0|0|75|11.6538|100|0|0|0|0|0|950|520|0|800|0|200|0|0|0|0|0|0|15|26|0|0|0|8|0|0|0|0|0|0|0|0|15|0|14|3|0|0|0|150|0|0|0|"/>
+        </Key>
+        <Key name="15">
+            <Value text="15|42|1|12|65|0|0|0|0|0|23.625|100|0|0|0|0|0|160|280|0|150|0|60|0|0|0|0|0|0|9|10|0|0|0|2|0|0|0|0|0|0|0|0|9|0|8|0|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="179">
+            <Value text="179|450|1|60|822|67|0|0|0|275|63.2114|200|0|0|0|0|0|4795|960|0|3900|0|945|260|304|0|150|0|110|44|52|0|0|6|33|200|0|0|0|0|0|0|0|38|0|37|15|0|0|0|900|0|0|0|"/>
+        </Key>
+        <Key name="108">
+            <Value text="108|270|2|36|38|56|0|0|0|125|25.3174|100|0|0|0|0|0|2040|600|0|2000|0|90|220|96|0|150|0|70|26|26|0|0|4|17|200|0|0|0|0|0|0|0|22|0|21|5|0|0|0|300|0|0|0|"/>
+        </Key>
+        <Key name="34">
+            <Value text="34|90|2|0|101|0|0|0|0|25|25.3601|100|0|0|0|0|0|475|400|0|400|0|125|0|0|0|0|0|0|12|18|0|0|0|5|0|0|0|0|0|0|0|0|12|0|11|1|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="231">
+            <Value text="231|582|1|12|520|587|-475|0|395|425|110.5432|200|0|2563|0|0|0|5980|60|0|5500|0|530|948|80|0|350|0|598|10|68|0|0|4|48|0|0|50|550|300|3|325|50|6|43|47|18|2|0|0|800|300|50|0|"/>
+        </Key>
+        <Key name="123">
+            <Value text="123|312|1|24|160|0|0|0|0|150|34.519|200|0|0|0|0|0|2685|700|0|2575|0|160|0|0|0|0|0|0|24|44|0|0|0|17|0|0|0|0|0|0|0|0|24|0|23|9|0|0|0|600|0|0|0|"/>
+        </Key>
+        <Key name="136">
+            <Value text="136|342|2|12|77|138|0|0|0|175|15.428|100|0|0|0|0|0|2860|680|0|2825|0|85|436|224|0|300|0|136|36|42|0|0|12|21|300|0|0|0|0|0|0|0|24|0|24|9|0|0|0|500|0|100|0|"/>
+        </Key>
+        <Key name="58">
+            <Value text="58|150|2|108|49|0|0|0|0|75|8.3118|100|0|0|0|0|0|935|500|0|975|0|10|0|0|0|0|0|0|16|18|0|0|0|9|0|0|0|0|0|0|0|0|16|0|15|2|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="29">
+            <Value text="29|78|1|24|104|0|0|0|0|25|18.4856|100|0|0|0|0|0|370|360|0|350|0|70|0|0|0|0|0|0|10|10|0|0|0|4|0|0|0|0|0|0|0|0|10|0|10|0|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="16">
+            <Value text="16|42|2|0|43|0|0|0|0|0|23.625|100|0|0|0|0|0|185|320|0|150|0|85|0|0|0|0|0|0|9|10|0|0|0|2|0|0|0|0|0|0|0|0|9|0|8|0|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="239">
+            <Value text="239|600|1|0|680|611|-475|0|395|425|59.3848|100|0|3329|0|0|0|5980|0|0|5350|0|680|972|96|0|350|0|622|7|58|0|10|4|49|0|0|53|550|300|3|325|50|3|46|48|18|4|0|0|650|450|50|0|"/>
+        </Key>
+        <Key name="208">
+            <Value text="208|522|2|84|129|282|475|0|640|275|16.2886|200|0|136|0|0|0|4945|740|0|4775|0|220|1104|176|0|800|0|304|54|58|0|0|26|33|1550|500|1|125|50|6|350|300|28|0|28|12|0|2|0|700|0|150|0|"/>
+        </Key>
+        <Key name="156">
+            <Value text="156|390|2|120|53|169|0|0|0|200|17.428|100|0|0|0|0|0|3410|660|0|3400|0|60|616|240|0|450|0|166|42|42|0|0|18|23|675|150|0|0|0|0|0|0|24|0|24|9|0|0|0|550|0|150|0|"/>
+        </Key>
+        <Key name="147">
+            <Value text="147|372|1|48|332|14|0|0|0|200|51.2402|200|0|0|0|0|0|3555|880|0|3375|0|230|28|112|0|0|0|28|34|44|0|0|4|24|200|0|0|0|0|0|0|0|30|0|28|11|0|0|0|900|0|0|0|"/>
+        </Key>
+        <Key name="160">
+            <Value text="160|402|2|96|112|182|0|0|0|200|24.178|100|0|0|0|0|0|3550|700|0|3400|0|200|664|240|0|450|0|214|42|58|0|0|18|23|675|150|0|0|0|0|0|0|24|0|24|12|0|0|0|700|0|150|0|"/>
+        </Key>
+        <Key name="134">
+            <Value text="134|336|2|12|82|135|0|0|0|175|12.053|100|0|0|0|0|0|2790|700|0|2700|0|140|412|224|0|250|0|162|34|34|0|0|10|21|300|0|0|0|0|0|0|0|24|0|24|8|0|0|0|500|0|100|0|"/>
+        </Key>
+        <Key name="121">
+            <Value text="121|306|1|60|164|0|0|0|0|150|27.769|200|0|0|0|0|0|2615|740|0|2525|0|140|0|0|0|0|0|0|23|44|0|0|0|16|0|0|0|0|0|0|0|0|23|0|22|7|0|0|0|450|0|0|0|"/>
+        </Key>
+        <Key name="9">
+            <Value text="9|30|1|0|39|0|0|0|0|0|16.875|100|0|0|0|0|0|110|300|0|100|0|60|0|0|0|0|0|0|8|10|0|0|0|1|0|0|0|0|0|0|0|0|8|0|7|0|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="192">
+            <Value text="192|480|2|132|252|229|0|0|0|250|18.053|100|0|0|0|0|0|4450|640|0|4175|0|325|956|224|0|700|0|256|55|58|0|0|28|31|1675|550|0|0|0|0|0|0|27|0|26|12|0|0|0|700|0|150|0|"/>
+        </Key>
+        <Key name="184">
+            <Value text="184|462|2|36|105|161|0|0|0|250|7.928|100|0|0|0|0|0|4255|680|0|4125|0|180|892|240|0|700|0|192|54|58|0|0|28|29|1425|450|0|0|0|0|0|0|26|0|25|12|0|0|0|700|0|150|0|"/>
+        </Key>
+        <Key name="139">
+            <Value text="139|354|1|36|250|0|0|0|0|200|31.2112|200|0|0|0|0|0|3285|920|0|2975|0|360|0|0|0|0|0|0|32|44|0|0|4|22|100|0|0|0|0|0|0|0|28|0|27|11|0|0|0|900|0|0|0|"/>
+        </Key>
+        <Key name="68">
+            <Value text="68|174|2|120|75|24|0|0|0|75|21.7068|100|0|0|0|0|0|1115|440|0|1125|0|40|40|128|0|0|0|40|17|26|0|0|0|11|0|0|0|0|0|0|0|0|17|0|17|4|0|0|0|150|0|0|0|"/>
+        </Key>
+        <Key name="244">
+            <Value text="244|605.375|2|60|288|357|475|0|3740|325|20.3237|200|0|395|0|0|0|5970|700|0|5725|0|295|1384|208|0|1000|0|384|58|84|10|0|28|36|1650|500|3|325|50|53|550|300|30|0|28|16|0|5|0|850|0|250|0|"/>
+        </Key>
+        <Key name="222">
+            <Value text="222|558|2|180|449|396|275|0|1420|300|11.5386|200|0|395|0|0|0|5405|740|0|4975|0|480|1220|176|0|800|0|420|52|58|0|0|24|33|1350|500|3|325|50|45|350|300|28|0|28|12|0|2|0|700|0|150|0|"/>
+        </Key>
+        <Key name="200">
+            <Value text="200|504|2|108|131|315|-175|0|316|275|6.3271|200|0|89|0|0|0|4725|700|0|4775|0|0|1048|224|0|800|0|248|54|58|0|0|26|33|1550|500|1|125|50|0|0|0|28|0|28|12|0|2|0|700|0|150|0|"/>
+        </Key>
+        <Key name="96">
+            <Value text="96|240|2|84|68|84|0|0|0|125|8.4424|100|0|0|0|0|0|1730|640|0|1775|0|5|168|112|0|150|0|18|25|26|0|0|4|15|100|0|0|0|0|0|0|0|21|0|20|5|0|0|0|300|0|0|0|"/>
+        </Key>
+        <Key name="3">
+            <Value text="3|12|1|0|13|0|0|0|0|0|6.75|100|0|0|0|0|0|25|125|0|50|0|25|0|0|0|0|0|0|7|10|0|0|0|0|0|0|0|0|0|0|0|0|7|0|6|0|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="169">
+            <Value text="169|426|1|12|541|74|0|0|0|250|61.2407|200|0|0|0|0|0|4400|980|0|3850|0|600|148|176|0|50|0|98|39|52|0|0|4|29|200|0|0|0|0|0|0|0|35|0|33|15|0|0|0|900|0|0|0|"/>
+        </Key>
+        <Key name="180">
+            <Value text="180|450|2|84|60|129|0|0|0|250|1.178|100|0|0|0|0|0|4120|720|0|4075|0|95|844|224|0|700|0|144|53|58|0|0|28|28|1425|450|0|0|0|0|0|0|25|0|24|12|0|0|0|700|0|150|0|"/>
+        </Key>
+        <Key name="84">
+            <Value text="84|210|2|204|47|94|0|0|0|100|16.5674|100|0|0|0|0|0|1420|520|0|1375|0|95|108|112|0|0|0|108|22|26|0|0|2|13|0|0|0|0|0|0|0|0|20|0|19|4|0|0|0|150|0|0|0|"/>
+        </Key>
+        <Key name="221">
+            <Value text="221|558|1|36|584|547|-275|0|395|425|83.9045|200|0|1420|0|0|0|5960|0|0|5500|0|510|912|128|0|350|0|562|11|68|0|0|4|44|0|0|45|350|300|3|325|50|7|40|45|17|2|0|0|650|300|50|0|"/>
+        </Key>
+        <Key name="190">
+            <Value text="190|480|2|132|252|229|0|0|0|250|18.053|100|0|0|0|0|0|4450|640|0|4175|0|325|956|224|0|700|0|256|55|58|0|0|28|31|1675|550|0|0|0|0|0|0|27|0|26|12|0|0|0|700|0|150|0|"/>
+        </Key>
+        <Key name="172">
+            <Value text="172|432|2|48|91|147|0|0|0|225|16.053|100|0|0|0|0|0|3905|680|0|3775|0|180|776|224|0|600|0|176|48|58|0|0|24|26|1175|350|0|0|0|0|0|0|24|0|24|12|0|0|0|700|0|150|0|"/>
+        </Key>
+        <Key name="162">
+            <Value text="162|408|2|48|146|191|0|0|0|225|2.553|100|0|0|0|0|0|3625|740|0|3525|0|150|688|240|0|500|0|188|44|58|0|0|20|23|675|150|0|0|0|0|0|0|24|0|24|12|0|0|0|700|0|150|0|"/>
+        </Key>
+        <Key name="137">
+            <Value text="137|348|1|24|186|0|0|0|0|200|24.5784|200|0|0|0|0|0|3200|860|0|2975|0|275|0|0|0|0|0|0|32|44|0|0|4|21|0|0|0|0|0|0|0|0|28|0|27|10|0|0|0|750|0|0|0|"/>
+        </Key>
+        <Key name="131">
+            <Value text="131|330|1|24|149|0|0|0|0|175|29.6274|200|0|0|0|0|0|2935|860|0|2875|0|110|0|0|0|0|0|0|30|44|0|0|4|18|0|0|0|0|0|0|0|0|26|0|24|10|0|0|0|750|0|0|0|"/>
+        </Key>
+        <Key name="116">
+            <Value text="116|294|2|48|103|100|0|0|0|150|13.428|100|0|0|0|0|0|2325|700|0|2200|0|175|264|112|0|150|0|114|30|34|0|0|6|19|200|0|0|0|0|0|0|0|24|0|23|7|0|0|0|300|0|0|0|"/>
+        </Key>
+        <Key name="164">
+            <Value text="164|414|2|72|167|194|0|0|0|225|5.928|100|0|0|0|0|0|3690|700|0|3525|0|215|704|224|0|500|0|204|44|58|0|0|20|25|1050|300|0|0|0|0|0|0|24|0|24|12|0|0|0|700|0|150|0|"/>
+        </Key>
+        <Key name="161">
+            <Value text="161|408|1|84|481|37|0|0|0|250|41.6768|200|0|0|0|0|0|4110|960|0|3700|0|460|100|128|0|50|0|50|37|52|0|0|4|27|200|0|0|0|0|0|0|0|33|0|31|14|0|0|0|900|0|0|0|"/>
+        </Key>
+        <Key name="10">
+            <Value text="10|30|2|12|24|0|0|0|0|0|16.875|100|0|0|0|0|0|120|280|0|150|0|20|0|0|0|0|0|0|8|10|0|0|0|1|0|0|0|0|0|0|0|0|8|0|7|0|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="209">
+            <Value text="209|528|1|72|1333|450|-475|0|168|375|100.572|200|0|760|0|0|0|5960|780|0|4600|0|1410|844|384|0|350|0|494|36|68|0|0|0|42|0|0|12|350|300|1|125|50|36|7|43|17|2|0|0|600|300|0|0|"/>
+        </Key>
+        <Key name="152">
+            <Value text="152|384|2|12|60|164|0|0|0|200|14.053|100|0|0|0|0|0|3335|640|0|3275|0|110|592|224|0|400|0|192|40|42|0|0|16|23|675|150|0|0|0|0|0|0|24|0|24|9|0|0|0|500|0|100|0|"/>
+        </Key>
+        <Key name="94">
+            <Value text="94|240|2|84|68|84|0|0|0|125|8.4424|100|0|0|0|0|0|1730|640|0|1775|0|5|168|112|0|150|0|18|25|26|0|0|4|15|100|0|0|0|0|0|0|0|21|0|20|5|0|0|0|300|0|0|0|"/>
+        </Key>
+        <Key name="88">
+            <Value text="88|222|2|24|115|117|0|0|0|100|23.3174|100|0|0|0|0|0|1550|560|0|1475|0|125|132|112|0|0|0|132|22|26|0|0|2|13|0|0|0|0|0|0|0|0|20|0|19|4|0|0|0|150|0|0|0|"/>
+        </Key>
+        <Key name="45">
+            <Value text="45|120|1|84|108|0|0|0|0|50|16.7212|100|0|0|0|0|0|655|420|0|650|0|55|0|0|0|0|0|0|12|18|0|0|0|6|0|0|0|0|0|0|0|0|12|0|12|1|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="23">
+            <Value text="23|60|1|144|78|0|0|0|0|25|8.479|100|0|0|0|0|0|270|340|0|200|0|120|0|0|0|0|0|0|10|10|0|0|0|3|0|0|0|0|0|0|0|0|10|0|9|0|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="230">
+            <Value text="230|576|2|144|268|255|375|0|2314|300|21.6636|200|0|395|0|0|0|5620|700|0|5425|0|245|1280|208|0|1000|0|280|56|66|0|0|28|35|1550|500|3|325|50|48|450|300|28|0|28|14|0|2|0|850|0|250|0|"/>
+        </Key>
+        <Key name="197">
+            <Value text="197|498|1|12|1002|221|0|0|72|325|66.822|200|0|37|0|0|0|5520|920|0|4600|0|970|628|464|0|350|0|278|52|52|0|0|10|39|250|100|0|0|0|0|0|0|42|0|42|15|0|0|0|900|0|0|0|"/>
+        </Key>
+        <Key name="188">
+            <Value text="188|474|2|60|204|206|0|0|0|250|14.678|100|0|0|0|0|0|4380|680|0|4175|0|255|936|240|0|700|0|236|54|58|0|0|28|30|1675|550|0|0|0|0|0|0|26|0|25|12|0|0|0|700|0|150|0|"/>
+        </Key>
+        <Key name="138">
+            <Value text="138|348|2|48|97|141|0|0|0|175|18.803|100|0|0|0|0|0|2935|720|0|2825|0|160|460|224|0|300|0|160|36|42|0|0|12|21|300|0|0|0|0|0|0|0|24|0|24|9|0|0|0|500|0|100|0|"/>
+        </Key>
+        <Key name="21">
+            <Value text="21|60|1|144|78|0|0|0|0|25|8.479|100|0|0|0|0|0|270|340|0|200|0|120|0|0|0|0|0|0|10|10|0|0|0|3|0|0|0|0|0|0|0|0|10|0|9|0|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="198">
+            <Value text="198|498|2|120|233|295|0|0|37|275|3.0693|200|0|72|0|0|0|4660|700|0|4625|0|85|1024|224|0|700|0|324|56|58|0|0|28|32|1675|550|0|0|0|0|0|0|28|0|27|12|0|0|0|700|0|150|0|"/>
+        </Key>
+        <Key name="194">
+            <Value text="194|486|2|156|307|251|0|0|0|250|21.428|100|0|0|0|0|0|4525|680|0|4225|0|350|976|208|0|700|0|276|55|58|0|0|28|31|1675|550|0|0|0|0|0|0|27|0|26|12|0|0|0|700|0|150|0|"/>
+        </Key>
+        <Key name="178">
+            <Value text="178|450|2|84|60|129|0|0|0|250|1.178|100|0|0|0|0|0|4120|720|0|4075|0|95|844|224|0|700|0|144|53|58|0|0|28|28|1425|450|0|0|0|0|0|0|25|0|24|12|0|0|0|700|0|150|0|"/>
+        </Key>
+        <Key name="50">
+            <Value text="50|126|2|48|30|0|0|0|0|50|20.0962|100|0|0|0|0|0|740|480|0|775|0|15|0|0|0|0|0|0|14|18|0|0|0|7|0|0|0|0|0|0|0|0|14|0|13|1|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="163">
+            <Value text="163|414|1|60|495|45|0|0|0|250|48.1924|200|0|0|0|0|0|4200|980|0|3700|0|550|112|128|0|50|0|62|37|52|0|0|4|27|200|0|0|0|0|0|0|0|33|0|31|15|0|0|0|900|0|0|0|"/>
+        </Key>
+        <Key name="148">
+            <Value text="148|372|2|84|50|120|0|0|0|200|7.303|100|0|0|0|0|0|3205|700|0|3175|0|80|548|224|0|400|0|148|40|42|0|0|16|22|550|100|0|0|0|0|0|0|24|0|24|9|0|0|0|500|0|100|0|"/>
+        </Key>
+        <Key name="128">
+            <Value text="128|324|2|72|71|91|0|0|0|175|5.303|100|0|0|0|0|0|2660|680|0|2700|0|10|368|224|0|250|0|118|34|34|0|0|10|21|300|0|0|0|0|0|0|0|24|0|24|8|0|0|0|500|0|100|0|"/>
+        </Key>
+        <Key name="80">
+            <Value text="80|204|2|120|25|82|0|0|0|100|13.1924|100|0|0|0|0|0|1365|520|0|1375|0|40|96|112|0|0|0|96|21|26|0|0|2|12|0|0|0|0|0|0|0|0|19|0|18|4|0|0|0|150|0|0|0|"/>
+        </Key>
+        <Key name="52">
+            <Value text="52|132|2|0|26|0|0|0|0|50|23.4712|100|0|0|0|0|0|790|460|0|775|0|65|0|0|0|0|0|0|15|18|0|0|0|8|0|0|0|0|0|0|0|0|15|0|14|1|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="7">
+            <Value text="7|24|1|12|33|0|0|0|0|0|13.5|100|0|0|0|0|0|80|260|0|100|0|30|0|0|0|0|0|0|8|10|0|0|0|1|0|0|0|0|0|0|0|0|8|0|7|0|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="182">
+            <Value text="182|456|2|84|59|138|0|0|0|250|4.553|100|0|0|0|0|0|4180|680|0|4125|0|105|868|240|0|700|0|168|53|58|0|0|28|28|1425|450|0|0|0|0|0|0|25|0|24|12|0|0|0|700|0|150|0|"/>
+        </Key>
+        <Key name="99">
+            <Value text="99|252|1|12|109|0|0|0|0|125|14.9458|200|0|0|0|0|0|1975|700|0|1850|0|175|0|0|0|0|0|0|20|26|0|0|0|13|0|0|0|0|0|0|0|0|20|0|19|4|0|0|0|300|0|0|0|"/>
+        </Key>
+        <Key name="98">
+            <Value text="98|246|2|0|24|42|0|0|0|125|11.8174|100|0|0|0|0|0|1785|620|0|1775|0|60|180|112|0|150|0|30|25|26|0|0|4|15|100|0|0|0|0|0|0|0|21|0|20|5|0|0|0|300|0|0|0|"/>
+        </Key>
+        <Key name="234">
+            <Value text="234|588|2|204|226|295|475|0|2700|325|3.4136|200|0|395|0|0|0|5770|740|0|5575|0|245|1328|208|0|1000|0|328|56|66|10|0|28|36|1650|500|3|325|50|51|550|300|28|0|28|14|0|3|0|850|0|250|0|"/>
+        </Key>
+        <Key name="167">
+            <Value text="167|420|1|36|504|58|0|0|0|250|54.708|200|0|0|0|0|0|4290|920|0|3800|0|540|128|144|0|50|0|78|39|52|0|0|4|29|200|0|0|0|0|0|0|0|35|0|33|15|0|0|0|900|0|0|0|"/>
+        </Key>
+        <Key name="125">
+            <Value text="125|318|1|24|139|0|0|0|0|150|41.269|200|0|0|0|0|0|2770|780|0|2675|0|145|0|0|0|0|0|0|26|44|0|0|2|17|0|0|0|0|0|0|0|0|24|0|23|9|0|0|0|600|0|0|0|"/>
+        </Key>
+        <Key name="75">
+            <Value text="75|192|1|36|381|0|0|0|0|100|6.6597|200|0|0|0|0|0|1305|600|0|1300|0|55|0|0|0|0|0|0|17|26|0|0|0|10|0|0|0|0|0|0|0|0|17|0|16|3|0|0|0|150|0|0|0|"/>
+        </Key>
+        <Key name="53">
+            <Value text="53|138|1|0|72|0|0|0|0|50|26.8462|100|0|0|0|0|0|790|460|0|750|0|90|0|0|0|0|0|0|13|18|0|0|0|6|0|0|0|0|0|0|0|0|13|0|12|1|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="17">
+            <Value text="17|48|1|36|70|0|0|0|0|25|1.9634|100|0|0|0|0|0|195|300|0|200|0|45|0|0|0|0|0|0|9|10|0|0|0|2|0|0|0|0|0|0|0|0|9|0|8|0|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="12">
+            <Value text="12|30|2|12|24|0|0|0|0|0|16.875|100|0|0|0|0|0|120|280|0|150|0|20|0|0|0|0|0|0|8|10|0|0|0|1|0|0|0|0|0|0|0|0|8|0|7|0|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="240">
+            <Value text="240|600|2|60|266|339|475|0|3329|325|14.2769|200|0|395|0|0|0|5905|680|0|5675|0|280|1360|192|0|1000|0|360|58|84|10|0|28|36|1650|500|3|325|50|53|550|300|30|0|28|16|0|4|0|850|0|250|0|"/>
+        </Key>
+        <Key name="191">
+            <Value text="191|480|1|24|983|193|0|0|0|325|46.572|200|0|0|0|0|0|5235|900|0|4250|0|1035|492|480|0|350|0|142|52|52|0|0|10|38|250|100|0|0|0|0|0|0|42|0|41|15|0|0|0|900|0|0|0|"/>
+        </Key>
+        <Key name="153">
+            <Value text="153|390|1|12|308|49|0|0|0|200|71.4902|200|0|0|0|0|0|3825|900|0|3450|0|425|64|112|0|0|0|64|35|52|0|0|4|26|200|0|0|0|0|0|0|0|31|0|30|12|0|0|0|900|0|0|0|"/>
+        </Key>
+        <Key name="105">
+            <Value text="105|270|1|72|148|0|0|0|0|125|24.928|200|0|0|0|0|0|2170|660|0|2200|0|20|0|0|0|0|0|0|21|34|0|0|0|14|0|0|0|0|0|0|0|0|21|0|20|5|0|0|0|300|0|0|0|"/>
+        </Key>
+        <Key name="67">
+            <Value text="67|174|1|0|271|0|0|0|0|75|21.7068|100|0|0|0|0|0|1120|580|0|850|0|320|0|0|0|0|0|0|16|26|0|0|0|9|0|0|0|0|0|0|0|0|16|0|15|3|0|0|0|150|0|0|0|"/>
+        </Key>
+        <Key name="5">
+            <Value text="5|18|1|0|22|0|0|0|0|0|10.125|100|0|0|0|0|0|55|220|0|50|0|55|0|0|0|0|0|0|7|10|0|0|0|0|0|0|0|0|0|0|0|0|7|0|6|0|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="220">
+            <Value text="220|552|2|252|405|377|375|0|1316|275|33.1636|200|0|377|0|0|0|5320|740|0|4875|0|495|1204|192|0|800|0|404|52|58|0|0|24|33|1450|500|2|225|50|39|350|300|28|0|28|12|0|2|0|700|0|150|0|"/>
+        </Key>
+        <Key name="83">
+            <Value text="83|210|1|96|117|0|0|0|0|100|16.5674|200|0|0|0|0|0|1495|640|0|1450|0|95|0|0|0|0|0|0|17|26|0|0|0|11|0|0|0|0|0|0|0|0|17|0|17|3|0|0|0|150|0|0|0|"/>
+        </Key>
+        <Key name="72">
+            <Value text="72|180|2|12|43|36|0|0|0|75|25.0818|100|0|0|0|0|0|1165|460|0|1175|0|40|52|128|0|0|0|52|18|26|0|0|0|11|0|0|0|0|0|0|0|0|18|0|17|4|0|0|0|150|0|0|0|"/>
+        </Key>
+        <Key name="14">
+            <Value text="14|36|2|0|33|0|0|0|0|0|20.25|100|0|0|0|0|0|150|300|0|150|0|50|0|0|0|0|0|0|9|10|0|0|0|2|0|0|0|0|0|0|0|0|9|0|8|0|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="106">
+            <Value text="106|270|2|36|38|56|0|0|0|125|25.3174|100|0|0|0|0|0|2040|600|0|2000|0|90|220|96|0|150|0|70|26|26|0|0|4|17|200|0|0|0|0|0|0|0|22|0|21|5|0|0|0|300|0|0|0|"/>
+        </Key>
+        <Key name="49">
+            <Value text="49|126|1|84|80|0|0|0|0|50|20.0962|100|0|0|0|0|0|695|420|0|650|0|95|0|0|0|0|0|0|12|18|0|0|0|6|0|0|0|0|0|0|0|0|12|0|12|1|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="236">
+            <Value text="236|594|2|228|239|318|475|0|3045|325|7.5269|200|0|395|0|0|0|5845|740|0|5575|0|320|1344|224|0|1000|0|344|56|76|10|0|28|36|1650|500|3|325|50|52|550|300|28|0|28|15|0|3|0|850|0|250|0|"/>
+        </Key>
+        <Key name="187">
+            <Value text="187|474|1|24|944|211|0|0|0|325|39.833|200|0|0|0|0|0|5150|920|0|4200|0|1000|448|496|0|250|0|198|49|52|0|0|8|36|250|100|0|0|0|0|0|0|41|0|39|15|0|0|0|900|0|0|0|"/>
+        </Key>
+        <Key name="168">
+            <Value text="168|420|2|60|134|175|0|0|0|225|9.303|100|0|0|0|0|0|3770|740|0|3775|0|45|728|224|0|600|0|128|48|58|0|0|24|25|1050|300|0|0|0|0|0|0|24|0|24|12|0|0|0|700|0|150|0|"/>
+        </Key>
+        <Key name="77">
+            <Value text="77|198|1|36|266|0|0|0|0|100|9.9175|200|0|0|0|0|0|1370|640|0|1300|0|120|0|0|0|0|0|0|17|26|0|0|0|11|0|0|0|0|0|0|0|0|17|0|17|3|0|0|0|150|0|0|0|"/>
+        </Key>
+        <Key name="40">
+            <Value text="40|102|2|72|66|0|0|0|0|50|6.8965|100|0|0|0|0|0|560|400|0|600|0|10|0|0|0|0|0|0|13|18|0|0|0|6|0|0|0|0|0|0|0|0|13|0|12|1|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="223">
+            <Value text="223|564|1|0|510|559|-275|0|395|425|90.4202|200|0|1440|0|0|0|5960|0|0|5500|0|510|924|112|0|350|0|574|10|68|0|0|4|44|0|0|46|350|300|3|325|50|6|41|45|18|2|0|0|800|300|50|0|"/>
+        </Key>
+        <Key name="97">
+            <Value text="97|246|1|36|78|0|0|0|0|125|11.688|200|0|0|0|0|0|1905|700|0|1850|0|105|0|0|0|0|0|0|19|26|0|0|0|12|0|0|0|0|0|0|0|0|19|0|18|4|0|0|0|300|0|0|0|"/>
+        </Key>
+        <Key name="233">
+            <Value text="233|588|1|0|577|595|-475|0|395|425|52.6348|100|0|2700|0|0|0|5980|40|0|5350|0|680|956|96|0|350|0|606|9|58|0|10|4|49|0|0|51|550|300|3|325|50|5|44|48|18|3|0|0|800|300|50|0|"/>
+        </Key>
+        <Key name="213">
+            <Value text="213|540|1|36|1270|506|-475|0|172|375|114.072|200|0|920|0|0|0|5960|40|0|5000|0|1010|876|176|0|350|0|526|32|68|0|0|4|42|0|0|20|350|300|1|125|50|28|15|43|17|2|0|0|650|300|50|0|"/>
+        </Key>
+        <Key name="177">
+            <Value text="177|450|1|60|822|67|0|0|0|275|63.2114|200|0|0|0|0|0|4795|960|0|3900|0|945|260|304|0|150|0|110|44|52|0|0|6|33|200|0|0|0|0|0|0|0|38|0|37|15|0|0|0|900|0|0|0|"/>
+        </Key>
+        <Key name="76">
+            <Value text="76|192|2|96|42|59|0|0|0|100|6.606|100|0|0|0|0|0|1270|520|0|1275|0|45|76|128|0|0|0|76|20|26|0|0|2|12|0|0|0|0|0|0|0|0|18|0|18|4|0|0|0|150|0|0|0|"/>
+        </Key>
+        <Key name="133">
+            <Value text="133|336|1|12|149|0|0|0|0|175|36.2603|200|0|0|0|0|0|3015|820|0|2925|0|140|0|0|0|0|0|0|31|44|0|0|4|19|0|0|0|0|0|0|0|0|27|0|25|10|0|0|0|750|0|0|0|"/>
+        </Key>
+        <Key name="114">
+            <Value text="114|288|2|60|107|88|0|0|0|150|10.0994|100|0|0|0|0|0|2250|700|0|2200|0|100|252|112|0|150|0|102|29|34|0|0|6|18|200|0|0|0|0|0|0|0|23|0|22|6|0|0|0|300|0|0|0|"/>
+        </Key>
+        <Key name="109">
+            <Value text="109|276|1|36|75|0|0|0|0|150|3.2725|200|0|0|0|0|0|2250|700|0|2250|0|50|0|0|0|0|0|0|21|34|0|0|0|14|0|0|0|0|0|0|0|0|21|0|20|5|0|0|0|300|0|0|0|"/>
+        </Key>
+        <Key name="104">
+            <Value text="104|264|2|84|28|46|0|0|0|125|21.9424|100|0|0|0|0|0|1970|620|0|2000|0|20|212|96|0|150|0|62|26|26|0|0|4|17|200|0|0|0|0|0|0|0|22|0|21|5|0|0|0|300|0|0|0|"/>
+        </Key>
+        <Key name="111">
+            <Value text="111|282|1|60|52|0|0|0|0|150|6.5303|200|0|0|0|0|0|2320|720|0|2325|0|45|0|0|0|0|0|0|21|34|0|0|0|14|0|0|0|0|0|0|0|0|21|0|20|5|0|0|0|300|0|0|0|"/>
+        </Key>
+        <Key name="86">
+            <Value text="86|216|2|228|88|106|0|0|0|100|19.9424|100|0|0|0|0|0|1485|540|0|1375|0|160|120|112|0|0|0|120|22|26|0|0|2|13|0|0|0|0|0|0|0|0|20|0|19|4|0|0|0|150|0|0|0|"/>
+        </Key>
+        <Key name="127">
+            <Value text="127|324|1|36|150|0|0|0|0|175|22.9946|200|0|0|0|0|0|2850|800|0|2725|0|175|0|0|0|0|0|0|27|44|0|0|2|17|0|0|0|0|0|0|0|0|25|0|23|9|0|0|0|600|0|0|0|"/>
+        </Key>
+        <Key name="95">
+            <Value text="95|240|1|36|77|0|0|0|0|125|8.4302|200|0|0|0|0|0|1835|720|0|1800|0|85|0|0|0|0|0|0|19|26|0|0|0|12|0|0|0|0|0|0|0|0|19|0|18|3|0|0|0|150|0|0|0|"/>
+        </Key>
+        <Key name="140">
+            <Value text="140|354|2|12|136|152|0|0|0|175|22.178|100|0|0|0|0|0|2995|700|0|2825|0|220|480|240|0|300|0|180|36|42|0|0|12|21|300|0|0|0|0|0|0|0|24|0|24|9|0|0|0|500|0|100|0|"/>
+        </Key>
+        <Key name="107">
+            <Value text="107|270|1|72|148|0|0|0|0|125|24.928|200|0|0|0|0|0|2170|660|0|2200|0|20|0|0|0|0|0|0|21|34|0|0|0|14|0|0|0|0|0|0|0|0|21|0|20|5|0|0|0|300|0|0|0|"/>
+        </Key>
+        <Key name="62">
+            <Value text="62|156|2|36|35|0|0|0|0|75|11.5818|100|0|0|0|0|0|980|500|0|975|0|55|4|16|0|0|0|4|17|18|0|0|0|10|0|0|0|0|0|0|0|0|17|0|16|2|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="238">
+            <Value text="238|600|2|60|266|339|475|0|3329|325|14.2769|200|0|395|0|0|0|5905|680|0|5675|0|280|1360|192|0|1000|0|360|58|84|10|0|28|36|1650|500|3|325|50|53|550|300|30|0|28|16|0|4|0|850|0|250|0|"/>
+        </Key>
+        <Key name="115">
+            <Value text="115|294|1|48|100|0|0|0|0|150|14.2764|200|0|0|0|0|0|2475|760|0|2375|0|150|0|0|0|0|0|0|23|44|0|0|0|15|0|0|0|0|0|0|0|0|23|0|21|7|0|0|0|450|0|0|0|"/>
+        </Key>
+        <Key name="103">
+            <Value text="103|264|1|60|186|0|0|0|0|125|21.553|200|0|0|0|0|0|2110|700|0|2000|0|160|0|0|0|0|0|0|20|34|0|0|0|14|0|0|0|0|0|0|0|0|20|0|20|5|0|0|0|300|0|0|0|"/>
+        </Key>
+        <Key name="43">
+            <Value text="43|114|1|24|150|0|0|0|0|50|13.3523|100|0|0|0|0|0|610|380|0|550|0|110|0|0|0|0|0|0|12|18|0|0|0|5|0|0|0|0|0|0|0|0|12|0|11|1|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="206">
+            <Value text="206|516|2|108|84|280|175|0|580|275|12.9136|200|0|131|0|0|0|4875|740|0|4775|0|150|1084|192|0|800|0|284|54|58|0|0|26|33|1550|500|1|125|50|4|300|200|28|0|28|12|0|2|0|700|0|150|0|"/>
+        </Key>
+        <Key name="201">
+            <Value text="201|510|1|60|1045|313|-175|0|116|375|80.322|200|0|540|0|0|0|5725|1000|0|4600|0|1175|724|464|0|350|0|374|47|52|0|0|4|40|50|100|3|250|100|1|125|50|43|0|42|15|2|0|0|600|300|0|0|"/>
+        </Key>
+        <Key name="196">
+            <Value text="196|492|2|96|342|273|0|0|0|250|24.803|100|0|0|0|0|0|4590|700|0|4625|0|15|1000|208|0|700|0|300|55|58|0|0|28|31|1675|550|0|0|0|0|0|0|27|0|26|12|0|0|0|700|0|150|0|"/>
+        </Key>
+        <Key name="170">
+            <Value text="170|426|2|0|106|158|0|0|0|225|12.678|100|0|0|0|0|0|3840|720|0|3775|0|115|752|224|0|600|0|152|48|58|0|0|24|25|1050|300|0|0|0|0|0|0|24|0|24|12|0|0|0|700|0|150|0|"/>
+        </Key>
+        <Key name="44">
+            <Value text="44|114|2|108|29|0|0|0|0|50|13.4121|100|0|0|0|0|0|650|440|0|650|0|50|0|0|0|0|0|0|14|18|0|0|0|7|0|0|0|0|0|0|0|0|14|0|13|1|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="158">
+            <Value text="158|396|2|96|73|172|0|0|0|200|20.803|100|0|0|0|0|0|3490|740|0|3400|0|140|640|240|0|450|0|190|42|50|0|0|18|23|675|150|0|0|0|0|0|0|24|0|24|11|0|0|0|700|0|150|0|"/>
+        </Key>
+        <Key name="214">
+            <Value text="214|540|2|288|302|340|475|0|920|275|26.4136|200|0|172|0|0|0|5170|740|0|4875|0|345|1160|160|0|800|0|360|54|58|0|0|26|33|1550|500|1|125|50|20|350|300|28|0|28|12|0|2|0|700|0|150|0|"/>
+        </Key>
+        <Key name="85">
+            <Value text="85|216|1|108|115|0|0|0|0|100|19.9424|200|0|0|0|0|0|1570|700|0|1500|0|120|0|0|0|0|0|0|18|26|0|0|0|11|0|0|0|0|0|0|0|0|18|0|17|3|0|0|0|150|0|0|0|"/>
+        </Key>
+        <Key name="48">
+            <Value text="48|120|2|48|33|0|0|0|0|50|16.7212|100|0|0|0|0|0|695|500|0|725|0|20|0|0|0|0|0|0|14|18|0|0|0|7|0|0|0|0|0|0|0|0|14|0|13|1|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="32">
+            <Value text="32|84|2|12|101|0|0|0|0|25|22.1023|100|0|0|0|0|0|430|360|0|400|0|80|0|0|0|0|0|0|11|18|0|0|0|4|0|0|0|0|0|0|0|0|11|0|10|1|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="82">
+            <Value text="82|210|2|204|47|94|0|0|0|100|16.5674|100|0|0|0|0|0|1420|520|0|1375|0|95|108|112|0|0|0|108|22|26|0|0|2|13|0|0|0|0|0|0|0|0|20|0|19|4|0|0|0|150|0|0|0|"/>
+        </Key>
+        <Key name="229">
+            <Value text="229|576|1|24|515|579|-375|0|395|425|103.7932|200|0|2314|0|0|0|5970|40|0|5500|0|520|940|80|0|350|0|590|13|68|0|0|6|48|100|0|48|450|300|3|325|50|7|42|47|18|2|0|0|800|300|50|0|"/>
+        </Key>
+        <Key name="218">
+            <Value text="218|546|2|264|338|358|475|0|1132|275|29.7886|200|0|245|0|0|0|5250|760|0|4875|0|425|1180|176|0|800|0|380|54|58|0|0|26|33|1550|500|1|125|50|30|350|300|28|0|28|12|0|2|0|700|0|150|0|"/>
+        </Key>
+        <Key name="212">
+            <Value text="212|534|2|264|266|321|475|0|840|275|23.0386|200|0|172|0|0|0|5095|760|0|4875|0|270|1144|176|0|800|0|344|54|58|0|0|26|33|1550|500|1|125|50|16|350|300|28|0|28|12|0|2|0|700|0|150|0|"/>
+        </Key>
+        <Key name="93">
+            <Value text="93|240|1|36|77|0|0|0|0|125|8.4302|200|0|0|0|0|0|1835|720|0|1800|0|85|0|0|0|0|0|0|19|26|0|0|0|12|0|0|0|0|0|0|0|0|19|0|18|3|0|0|0|150|0|0|0|"/>
+        </Key>
+        <Key name="51">
+            <Value text="51|132|1|12|65|0|0|0|0|50|23.4712|100|0|0|0|0|0|745|440|0|750|0|45|0|0|0|0|0|0|13|18|0|0|0|6|0|0|0|0|0|0|0|0|13|0|12|1|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="36">
+            <Value text="36|90|2|0|101|0|0|0|0|25|25.3601|100|0|0|0|0|0|475|400|0|400|0|125|0|0|0|0|0|0|12|18|0|0|0|5|0|0|0|0|0|0|0|0|12|0|11|1|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="22">
+            <Value text="22|60|2|0|25|0|0|0|0|0|33.75|100|0|0|0|0|0|280|340|0|300|0|30|0|0|0|0|0|0|10|10|0|0|0|3|0|0|0|0|0|0|0|0|10|0|9|0|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="135">
+            <Value text="135|342|1|12|151|0|0|0|0|175|42.8931|200|0|0|0|0|0|3105|840|0|2975|0|180|0|0|0|0|0|0|31|44|0|0|4|19|0|0|0|0|0|0|0|0|27|0|25|10|0|0|0|750|0|0|0|"/>
+        </Key>
+        <Key name="119">
+            <Value text="119|300|1|0|146|0|0|0|0|150|21.019|200|0|0|0|0|0|2540|740|0|2375|0|215|0|0|0|0|0|0|23|44|0|0|0|16|0|0|0|0|0|0|0|0|23|0|22|7|0|0|0|450|0|0|0|"/>
+        </Key>
+        <Key name="33">
+            <Value text="33|90|1|0|108|0|0|0|0|25|25.2356|100|0|0|0|0|0|455|400|0|350|0|155|0|0|0|0|0|0|10|10|0|0|0|4|0|0|0|0|0|0|0|0|10|0|10|0|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="31">
+            <Value text="31|84|1|0|90|0|0|0|0|25|21.8606|100|0|0|0|0|0|405|380|0|350|0|105|0|0|0|0|0|0|10|10|0|0|0|4|0|0|0|0|0|0|0|0|10|0|10|0|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="4">
+            <Value text="4|12|2|0|16|0|0|0|0|0|6.75|100|0|0|0|0|0|30|150|0|50|0|30|0|0|0|0|0|0|7|10|0|0|0|0|0|0|0|0|0|0|0|0|7|0|6|0|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="46">
+            <Value text="46|120|2|48|33|0|0|0|0|50|16.7212|100|0|0|0|0|0|695|500|0|725|0|20|0|0|0|0|0|0|14|18|0|0|0|7|0|0|0|0|0|0|0|0|14|0|13|1|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="173">
+            <Value text="173|438|1|36|646|65|0|0|0|275|49.7114|200|0|0|0|0|0|4595|980|0|3900|0|745|196|224|0|150|0|46|43|52|0|0|6|31|200|0|0|0|0|0|0|0|37|0|35|15|0|0|0|900|0|0|0|"/>
+        </Key>
+        <Key name="143">
+            <Value text="143|360|1|72|335|0|0|0|0|200|37.844|200|0|0|0|0|0|3390|940|0|3050|0|390|4|16|0|0|0|4|32|44|0|0|4|23|100|0|0|0|0|0|0|0|28|0|28|11|0|0|0|900|0|0|0|"/>
+        </Key>
+        <Key name="89">
+            <Value text="89|228|1|84|107|0|0|0|0|100|26.6924|200|0|0|0|0|0|1700|660|0|1650|0|100|0|0|0|0|0|0|18|26|0|0|0|11|0|0|0|0|0|0|0|0|18|0|17|3|0|0|0|150|0|0|0|"/>
+        </Key>
+        <Key name="87">
+            <Value text="87|222|1|36|118|0|0|0|0|100|23.3174|200|0|0|0|0|0|1630|680|0|1500|0|180|0|0|0|0|0|0|18|26|0|0|0|11|0|0|0|0|0|0|0|0|18|0|17|3|0|0|0|150|0|0|0|"/>
+        </Key>
+        <Key name="71">
+            <Value text="71|180|1|108|311|0|0|0|0|75|25.0818|100|0|0|0|0|0|1185|600|0|850|0|385|0|0|0|0|0|0|16|26|0|0|0|9|0|0|0|0|0|0|0|0|16|0|15|3|0|0|0|150|0|0|0|"/>
+        </Key>
+        <Key name="189">
+            <Value text="189|480|1|24|983|193|0|0|0|325|46.572|200|0|0|0|0|0|5235|900|0|4250|0|1035|492|480|0|350|0|142|52|52|0|0|10|38|250|100|0|0|0|0|0|0|42|0|41|15|0|0|0|900|0|0|0|"/>
+        </Key>
+        <Key name="69">
+            <Value text="69|180|1|108|311|0|0|0|0|75|25.0818|100|0|0|0|0|0|1185|600|0|850|0|385|0|0|0|0|0|0|16|26|0|0|0|9|0|0|0|0|0|0|0|0|16|0|15|3|0|0|0|150|0|0|0|"/>
+        </Key>
+        <Key name="19">
+            <Value text="19|54|1|0|64|0|0|0|0|25|5.2212|100|0|0|0|0|0|230|320|0|200|0|80|0|0|0|0|0|0|10|10|0|0|0|3|0|0|0|0|0|0|0|0|10|0|9|0|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="129">
+            <Value text="129|330|1|24|149|0|0|0|0|175|29.6274|200|0|0|0|0|0|2935|860|0|2875|0|110|0|0|0|0|0|0|30|44|0|0|4|18|0|0|0|0|0|0|0|0|26|0|24|10|0|0|0|750|0|0|0|"/>
+        </Key>
+        <Key name="54">
+            <Value text="54|138|2|60|45|0|0|0|0|75|1.7961|100|0|0|0|0|0|835|480|0|825|0|60|0|0|0|0|0|0|15|18|0|0|0|8|0|0|0|0|0|0|0|0|15|0|14|1|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="47">
+            <Value text="47|120|1|84|108|0|0|0|0|50|16.7212|100|0|0|0|0|0|655|420|0|650|0|55|0|0|0|0|0|0|12|18|0|0|0|6|0|0|0|0|0|0|0|0|12|0|12|1|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="227">
+            <Value text="227|570|1|36|511|570|-275|0|395|425|97.0432|200|0|2010|0|0|0|5965|20|0|5500|0|515|932|96|0|350|0|582|11|68|0|0|4|46|0|0|47|350|300|3|325|50|7|42|47|18|2|0|0|800|300|50|0|"/>
+        </Key>
+        <Key name="181">
+            <Value text="181|456|1|84|872|102|0|0|0|300|44.9346|200|0|0|0|0|0|4885|940|0|4100|0|835|304|384|0|150|0|154|45|52|0|0|6|33|200|0|0|0|0|0|0|0|39|0|37|15|0|0|0|900|0|0|0|"/>
+        </Key>
+        <Key name="151">
+            <Value text="151|384|1|72|264|37|0|0|0|200|64.7402|200|0|0|0|0|0|3735|920|0|3450|0|335|52|112|0|0|0|52|35|44|0|0|4|26|200|0|0|0|0|0|0|0|31|0|30|11|0|0|0|900|0|0|0|"/>
+        </Key>
+        <Key name="144">
+            <Value text="144|360|2|108|133|145|0|0|0|200|0.553|100|0|0|0|0|0|3065|660|0|3075|0|40|504|240|0|400|0|104|40|42|0|0|16|22|550|100|0|0|0|0|0|0|24|0|24|9|0|0|0|500|0|100|0|"/>
+        </Key>
+        <Key name="27">
+            <Value text="27|72|1|84|109|0|0|0|0|25|15.1106|100|0|0|0|0|0|330|320|0|300|0|80|0|0|0|0|0|0|10|10|0|0|0|4|0|0|0|0|0|0|0|0|10|0|10|0|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="26">
+            <Value text="26|66|2|0|29|0|0|0|0|0|37.125|100|0|0|0|0|0|310|340|0|300|0|60|0|0|0|0|0|0|10|10|0|0|0|3|0|0|0|0|0|0|0|0|10|0|9|0|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="228">
+            <Value text="228|570|2|144|345|311|275|0|2010|300|18.2886|200|0|395|0|0|0|5545|740|0|5325|0|270|1260|192|0|1000|0|260|54|66|0|0|26|35|1550|500|3|325|50|47|350|300|28|0|28|14|0|2|0|850|0|250|0|"/>
+        </Key>
+        <Key name="70">
+            <Value text="70|180|2|12|43|36|0|0|0|75|25.0818|100|0|0|0|0|0|1165|460|0|1175|0|40|52|128|0|0|0|52|18|26|0|0|0|11|0|0|0|0|0|0|0|0|18|0|17|4|0|0|0|150|0|0|0|"/>
+        </Key>
+        <Key name="20">
+            <Value text="20|54|2|12|52|0|0|0|0|0|30.375|100|0|0|0|0|0|245|340|0|250|0|45|0|0|0|0|0|0|9|10|0|0|0|3|0|0|0|0|0|0|0|0|9|0|9|0|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="225">
+            <Value text="225|570|1|36|511|570|-275|0|395|425|97.0432|200|0|2010|0|0|0|5965|20|0|5500|0|515|932|96|0|350|0|582|11|68|0|0|4|46|0|0|47|350|300|3|325|50|7|42|47|18|2|0|0|800|300|50|0|"/>
+        </Key>
+        <Key name="199">
+            <Value text="199|504|1|60|987|267|175|0|89|375|73.572|200|0|316|0|0|0|5620|960|0|4600|0|1070|676|464|0|350|0|326|52|52|0|0|10|39|250|100|0|0|0|1|125|50|42|0|42|15|2|0|0|600|300|0|0|"/>
+        </Key>
+        <Key name="175">
+            <Value text="175|444|1|48|728|49|0|0|0|275|56.4614|200|0|0|0|0|0|4690|960|0|3900|0|840|220|240|0|150|0|70|44|52|0|0|6|33|200|0|0|0|0|0|0|0|38|0|37|15|0|0|0|900|0|0|0|"/>
+        </Key>
+        <Key name="174">
+            <Value text="174|438|2|96|143|162|0|0|0|225|19.428|100|0|0|0|0|0|3975|680|0|4025|0|0|800|224|0|700|0|100|52|58|0|0|28|26|1175|350|0|0|0|0|0|0|24|0|24|12|0|0|0|700|0|150|0|"/>
+        </Key>
+        <Key name="155">
+            <Value text="155|390|1|12|308|49|0|0|0|200|71.4902|200|0|0|0|0|0|3825|900|0|3450|0|425|64|112|0|0|0|64|35|52|0|0|4|26|200|0|0|0|0|0|0|0|31|0|30|12|0|0|0|900|0|0|0|"/>
+        </Key>
+        <Key name="202">
+            <Value text="202|510|2|204|71|299|175|0|540|275|9.585|200|0|116|0|0|0|4800|700|0|4775|0|75|1068|224|0|800|0|268|54|58|0|0|26|33|1550|500|1|125|50|3|250|100|28|0|28|12|0|2|0|700|0|150|0|"/>
+        </Key>
+        <Key name="157">
+            <Value text="157|396|1|48|391|53|0|0|0|200|78.2402|200|0|0|0|0|0|3920|900|0|3500|0|470|76|112|0|50|0|26|35|52|0|0|4|26|200|0|0|0|0|0|0|0|31|0|30|13|0|0|0|900|0|0|0|"/>
+        </Key>
+        <Key name="142">
+            <Value text="142|360|2|108|133|145|0|0|0|200|0.553|100|0|0|0|0|0|3065|660|0|3075|0|40|504|240|0|400|0|104|40|42|0|0|16|22|550|100|0|0|0|0|0|0|24|0|24|9|0|0|0|500|0|100|0|"/>
+        </Key>
+        <Key name="166">
+            <Value text="166|420|2|60|134|175|0|0|0|225|9.303|100|0|0|0|0|0|3770|740|0|3775|0|45|728|224|0|600|0|128|48|58|0|0|24|25|1050|300|0|0|0|0|0|0|24|0|24|12|0|0|0|700|0|150|0|"/>
+        </Key>
+        <Key name="159">
+            <Value text="159|402|1|36|465|45|0|0|0|200|84.9902|200|0|0|0|0|0|4005|940|0|3500|0|555|88|112|0|50|0|38|35|52|0|0|4|27|200|0|0|0|0|0|0|0|31|0|31|13|0|0|0|900|0|0|0|"/>
+        </Key>
+        <Key name="112">
+            <Value text="112|282|2|84|106|77|0|0|0|150|6.8416|100|0|0|0|0|0|2180|680|0|2150|0|80|240|96|0|150|0|90|29|34|0|0|6|18|200|0|0|0|0|0|0|0|23|0|22|6|0|0|0|300|0|0|0|"/>
+        </Key>
+        <Key name="64">
+            <Value text="64|162|2|60|52|4|0|0|0|75|14.9568|100|0|0|0|0|0|1035|480|0|975|0|110|16|64|0|0|0|16|17|18|0|0|0|10|0|0|0|0|0|0|0|0|17|0|16|3|0|0|0|150|0|0|0|"/>
+        </Key>
+        <Key name="207">
+            <Value text="207|522|1|84|1244|406|-475|0|136|375|93.822|200|0|640|0|0|0|5915|980|0|4600|0|1365|812|448|0|350|0|462|42|68|0|0|0|41|0|0|6|350|300|1|125|50|42|1|42|17|2|0|0|600|300|0|0|"/>
+        </Key>
+        <Key name="183">
+            <Value text="183|462|1|36|884|144|0|0|0|325|26.5674|200|0|0|0|0|0|4965|900|0|4100|0|915|352|432|0|150|0|202|46|52|0|0|6|34|200|0|0|0|0|0|0|0|40|0|38|15|0|0|0|900|0|0|0|"/>
+        </Key>
+        <Key name="149">
+            <Value text="149|378|1|60|271|26|0|0|0|200|57.9902|200|0|0|0|0|0|3650|900|0|3450|0|250|40|112|0|0|0|40|34|44|0|0|4|24|200|0|0|0|0|0|0|0|30|0|28|11|0|0|0|900|0|0|0|"/>
+        </Key>
+        <Key name="92">
+            <Value text="92|234|2|144|106|113|0|0|0|125|5.0674|100|0|0|0|0|0|1670|620|0|1675|0|45|156|112|0|100|0|56|24|26|0|0|4|15|100|0|0|0|0|0|0|0|20|0|20|5|0|0|0|300|0|0|0|"/>
+        </Key>
+        <Key name="74">
+            <Value text="74|186|2|12|39|47|0|0|0|100|3.3481|100|0|0|0|0|0|1215|500|0|1175|0|90|64|128|0|0|0|64|18|26|0|0|0|11|0|0|0|0|0|0|0|0|18|0|17|4|0|0|0|150|0|0|0|"/>
+        </Key>
+        <Key name="146">
+            <Value text="146|366|2|72|97|128|0|0|0|200|3.928|100|0|0|0|0|0|3145|720|0|3175|0|20|528|224|0|400|0|128|40|42|0|0|16|22|550|100|0|0|0|0|0|0|24|0|24|9|0|0|0|500|0|100|0|"/>
+        </Key>
+        <Key name="79">
+            <Value text="79|204|1|0|171|0|0|0|0|100|13.1924|200|0|0|0|0|0|1425|600|0|1300|0|175|0|0|0|0|0|0|17|26|0|0|0|11|0|0|0|0|0|0|0|0|17|0|17|3|0|0|0|150|0|0|0|"/>
+        </Key>
+        <Key name="37">
+            <Value text="37|96|1|60|125|0|0|0|0|50|3.5789|100|0|0|0|0|0|500|440|0|400|0|150|0|0|0|0|0|0|11|18|0|0|0|4|0|0|0|0|0|0|0|0|11|0|10|1|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="113">
+            <Value text="113|288|1|12|64|0|0|0|0|150|9.7881|200|0|0|0|0|0|2390|720|0|2325|0|115|0|0|0|0|0|0|22|34|0|0|0|15|0|0|0|0|0|0|0|0|22|0|21|5|0|0|0|300|0|0|0|"/>
+        </Key>
+        <Key name="100">
+            <Value text="100|252|2|60|38|34|0|0|0|125|15.1924|100|0|0|0|0|0|1850|640|0|1875|0|25|188|112|0|150|0|38|25|26|0|0|4|16|100|0|0|0|0|0|0|0|21|0|21|5|0|0|0|300|0|0|0|"/>
+        </Key>
+        <Key name="237">
+            <Value text="237|600|1|0|680|611|-475|0|395|425|59.3848|100|0|3329|0|0|0|5980|0|0|5350|0|680|972|96|0|350|0|622|7|58|0|10|4|49|0|0|53|550|300|3|325|50|3|46|48|18|4|0|0|650|450|50|0|"/>
+        </Key>
+        <Key name="176">
+            <Value text="176|444|2|60|107|146|0|0|0|225|22.803|100|0|0|0|0|0|4040|700|0|4075|0|15|820|224|0|700|0|120|53|58|0|0|28|28|1425|450|0|0|0|0|0|0|25|0|24|12|0|0|0|700|0|150|0|"/>
+        </Key>
+        <Key name="130">
+            <Value text="130|330|2|84|73|113|0|0|0|175|8.678|100|0|0|0|0|0|2725|680|0|2700|0|75|388|208|0|250|0|138|34|34|0|0|10|21|300|0|0|0|0|0|0|0|24|0|24|8|0|0|0|500|0|100|0|"/>
+        </Key>
+        <Key name="102">
+            <Value text="102|258|2|96|40|35|0|0|0|125|18.5674|100|0|0|0|0|0|1910|620|0|1925|0|35|200|112|0|150|0|50|26|26|0|0|4|17|200|0|0|0|0|0|0|0|22|0|21|5|0|0|0|300|0|0|0|"/>
+        </Key>
+        <Key name="55">
+            <Value text="55|144|1|24|88|0|0|0|0|75|5.1382|100|0|0|0|0|0|835|440|0|750|0|135|0|0|0|0|0|0|14|26|0|0|0|7|0|0|0|0|0|0|0|0|14|0|13|2|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="42">
+            <Value text="42|108|2|12|29|0|0|0|0|50|10.1543|100|0|0|0|0|0|600|420|0|600|0|50|0|0|0|0|0|0|13|18|0|0|0|6|0|0|0|0|0|0|0|0|13|0|12|1|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="24">
+            <Value text="24|60|2|0|25|0|0|0|0|0|33.75|100|0|0|0|0|0|280|340|0|300|0|30|0|0|0|0|0|0|10|10|0|0|0|3|0|0|0|0|0|0|0|0|10|0|9|0|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="13">
+            <Value text="13|36|1|0|49|0|0|0|0|0|20.25|100|0|0|0|0|0|140|320|0|100|0|90|0|0|0|0|0|0|8|10|0|0|0|1|0|0|0|0|0|0|0|0|8|0|7|0|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="242">
+            <Value text="242|605.375|2|60|288|357|475|0|3740|325|20.3237|200|0|395|0|0|0|5970|700|0|5725|0|295|1384|208|0|1000|0|384|58|84|10|0|28|36|1650|500|3|325|50|53|550|300|30|0|28|16|0|5|0|850|0|250|0|"/>
+        </Key>
+        <Key name="145">
+            <Value text="145|366|1|96|369|5|0|0|0|200|44.4902|200|0|0|0|0|0|3470|900|0|3150|0|370|16|64|0|0|0|16|32|44|0|0|4|23|100|0|0|0|0|0|0|0|28|0|28|11|0|0|0|900|0|0|0|"/>
+        </Key>
+        <Key name="63">
+            <Value text="63|162|1|0|202|0|0|0|0|75|14.9568|100|0|0|0|0|0|1015|560|0|800|0|265|0|0|0|0|0|0|15|26|0|0|0|8|0|0|0|0|0|0|0|0|15|0|14|3|0|0|0|150|0|0|0|"/>
+        </Key>
+        <Key name="56">
+            <Value text="56|144|2|60|61|0|0|0|0|75|5.054|100|0|0|0|0|0|880|480|0|925|0|5|0|0|0|0|0|0|16|18|0|0|0|9|0|0|0|0|0|0|0|0|16|0|15|1|0|0|0|0|0|0|0|"/>
+        </Key>
+        <Key name="18">
+            <Value text="18|48|2|12|60|0|0|0|0|0|27|100|0|0|0|0|0|215|360|0|250|0|15|0|0|0|0|0|0|9|10|0|0|0|2|0|0|0|0|0|0|0|0|9|0|8|0|0|0|0|0|0|0|0|"/>
+        </Key>
+    </Section>
+    <Section name="MapData">
+        <Key name="MapData">
+            <Value text="Akilon Wastes (MDCL)|168|168|148|144|"/>
+        </Key>
+    </Section>
+    <Section name="PlayerData">
+        <Key name="1">
+            <Value text="98-S2-1-76372|MDCL-88BF7A88D8172D7F8B194955B154A5DB|Saeris|1|1|28,167,234|2|2|0|100|143.5|23.5|"/>
+        </Key>
+        <Key name="2">
+            <Value text="A.I. (Very Hard)|MDCL-88BF7A88D8172D7F8B194955B154A5DB|A.I. (Very Hard)|2|2|0,66,255|2|1|1|100|24.5|136.5|"/>
+        </Key>
+    </Section>
+    <Section name="DeathData">
+        <Key name="38">
+            <Value text="38|549.3125|42729473|136.1447|52.8593|67633153|135.9504|57.376|4.5207|"/>
+        </Key>
+        <Key name="14">
+            <Value text="14|526.8125|60030977|137.8525|52.5126|56623105|137.0915|52.8005|0.8132|"/>
+        </Key>
+        <Key name="60">
+            <Value text="60|596.75|72089604|132.5|56.5|66060289|134.2866|55.1267|2.2531|"/>
+        </Key>
+        <Key name="49">
+            <Value text="49|555.0625|53739521|136.7631|53.3088|67895297|139.1711|58.3623|5.5976|"/>
+        </Key>
+        <Key name="41">
+            <Value text="41|550.6875|49020929|136.541|52.2963|55050241|136.9204|53.1125|0.8996|"/>
+        </Key>
+        <Key name="28">
+            <Value text="28|543|67371009|137.438|51.834|60555265|138.03|52.392|0.8132|"/>
+        </Key>
+        <Key name="25">
+            <Value text="25|541.6875|49807361|136.1083|52.878|55050241|136.9204|53.1125|0.845|"/>
+        </Key>
+        <Key name="57">
+            <Value text="57|585.9375|52166661|138.7458|52.0168|66846721|137.2165|54.2497|2.7062|"/>
+        </Key>
+        <Key name="40">
+            <Value text="40|549.875|60555265|138.03|52.392|42467329|137.3215|51.9926|0.8132|"/>
+        </Key>
+        <Key name="30">
+            <Value text="30|544.6875|42991617|134.5134|55.3227|67633153|135.9504|57.376|2.5058|"/>
+        </Key>
+        <Key name="6">
+            <Value text="6|508.875|54001677|127.5|57.5|66060289|122.6284|61.9055|6.568|"/>
+        </Key>
+        <Key name="1">
+            <Value text="1|498.1875|63963137|125.012|57.8691|57933825|130|60|5.424|"/>
+        </Key>
+        <Key name="39">
+            <Value text="39|549.8125|68943873|134.1491|54.9184|62390273|137.2641|57.1755|3.8466|"/>
+        </Key>
+        <Key name="59">
+            <Value text="59|595.375|47448074|135.2463|50.4013|66060289|134.2866|55.1267|4.8215|"/>
+        </Key>
+        <Key name="35">
+            <Value text="35|546.75|51118081|134.6071|54.6103|62390273|137.2641|57.1755|3.693|"/>
+        </Key>
+        <Key name="8">
+            <Value text="8|519.9375|62128133|129.361|47.6166|56623105|129.5178|48.5444|0.9406|"/>
+        </Key>
+        <Key name="2">
+            <Value text="2|498.6875|54001665|127|57|67633153|121.9223|59.4738|5.6481|"/>
+        </Key>
+        <Key name="43">
+            <Value text="43|551.375|42467329|137.2397|52.214|66846721|135.7216|53.782|2.1821|"/>
+        </Key>
+        <Key name="44">
+            <Value text="44|552.25|55312385|134.862|53.2678|56623105|134.4084|53.9582|0.8256|"/>
+        </Key>
+        <Key name="11">
+            <Value text="11|524.875|65273857|137.2502|53.6486|55050241|136.4492|53.5078|0.8132|"/>
+        </Key>
+        <Key name="61">
+            <Value text="61|603.8125|57671681|129.5|57.5|62390273|135.7111|54.927|6.723|"/>
+        </Key>
+        <Key name="48">
+            <Value text="48|554.1875|65011713|135.4548|52.8823|66060289|134.677|56.3144|3.519|"/>
+        </Key>
+        <Key name="32">
+            <Value text="32|545.5625|47185921|136.613|52.3547|55050241|136.9204|53.1125|0.8173|"/>
+        </Key>
+        <Key name="15">
+            <Value text="15|528|69206017|137.363|53.7231|56623105|137.0915|52.8005|0.9614|"/>
+        </Key>
+        <Key name="51">
+            <Value text="51|559.4375|67108865|142.926|55.4411|65798145|138.5786|57.3317|4.7404|"/>
+        </Key>
+        <Key name="36">
+            <Value text="36|548.0625|52953089|134.4404|55.2783|66060289|134.677|56.3144|1.0625|"/>
+        </Key>
+        <Key name="34">
+            <Value text="34|546.625|68157441|138.1821|51.5927|60555265|138.03|52.392|0.8132|"/>
+        </Key>
+        <Key name="22">
+            <Value text="22|538|59244545|135.1318|53.0522|62390273|137.2641|57.1755|4.6418|"/>
+        </Key>
+        <Key name="58">
+            <Value text="58|588.9375|65011717|138.5014|51.9162|66846721|137.2165|54.2497|2.6638|"/>
+        </Key>
+        <Key name="33">
+            <Value text="33|546|46399489|134.405|55.2863|67895297|139.1711|58.3623|5.6723|"/>
+        </Key>
+        <Key name="31">
+            <Value text="31|545.3125|61603841|134.6513|54.643|62390273|137.2641|57.1755|3.6386|"/>
+        </Key>
+        <Key name="29">
+            <Value text="29|543.8125|66584577|134.388|55.2836|62390273|137.2641|57.1755|3.4423|"/>
+        </Key>
+        <Key name="16">
+            <Value text="16|528.125|71827457|136.9138|54.3107|66060289|134.9396|59.6726|5.7136|"/>
+        </Key>
+        <Key name="4">
+            <Value text="4|505.8125|63438849|129.573|62.479|66060289|122.6284|61.9055|6.968|"/>
+        </Key>
+        <Key name="46">
+            <Value text="46|553.5|55050241|136.9572|52.9768|53739521|137.7214|52.698|0.8132|"/>
+        </Key>
+        <Key name="9">
+            <Value text="9|520.4375|68419585|134.3125|56.6801|62390273|131.6828|61.4526|5.4487|"/>
+        </Key>
+        <Key name="19">
+            <Value text="19|533.9375|54001689|136.0034|52.9558|67895297|136.8173|59.0222|6.1206|"/>
+        </Key>
+        <Key name="54">
+            <Value text="54|578.4375|53739533|136.5842|57.3|66060289|134.2866|55.1267|3.1625|"/>
+        </Key>
+        <Key name="47">
+            <Value text="47|553.625|52166657|137.7177|53.5058|67895297|139.1711|58.3623|5.069|"/>
+        </Key>
+        <Key name="3">
+            <Value text="3|502.8125|57933825|130|60|66060289|122.6083|61.912|7.6347|"/>
+        </Key>
+        <Key name="27">
+            <Value text="27|542.5|60817409|134.8847|53.2878|66846721|135.7216|53.782|0.9716|"/>
+        </Key>
+        <Key name="26">
+            <Value text="26|542.375|56098817|134.3713|55.2883|62390273|137.2641|57.1755|3.4538|"/>
+        </Key>
+        <Key name="20">
+            <Value text="20|535.625|42205185|143.246|63.769|67633153|136.1926|59.9826|8.0053|"/>
+        </Key>
+        <Key name="10">
+            <Value text="10|524.75|61865985|137.4311|61.1181|62390273|136.5917|60.4648|1.0634|"/>
+        </Key>
+        <Key name="45">
+            <Value text="45|552.6875|65536001|137.069|53.7827|66060289|134.677|56.3144|3.483|"/>
+        </Key>
+        <Key name="23">
+            <Value text="23|539.4375|57147393|135.42|52.8935|62390273|137.2641|57.1755|4.662|"/>
+        </Key>
+        <Key name="21">
+            <Value text="21|536.5|45875201|133.9211|51.6794|62390273|137.309|57.3227|6.582|"/>
+        </Key>
+        <Key name="50">
+            <Value text="50|555.6875|58720257|136.1782|52.8906|66060289|134.677|56.3144|3.7382|"/>
+        </Key>
+        <Key name="37">
+            <Value text="37|548.375|43515905|134.799|53.9533|56623105|135.1752|54.7783|0.9064|"/>
+        </Key>
+        <Key name="52">
+            <Value text="52|568.6875|52166660|139.1484|52.1582|67633153|135.9504|57.376|6.1196|"/>
+        </Key>
+        <Key name="7">
+            <Value text="7|516|69730305|134.1752|53.1992|56623105|134.4458|54.207|1.0432|"/>
+        </Key>
+        <Key name="55">
+            <Value text="55|579.875|55312386|138.816|52.045|66060289|134.2866|55.1267|5.4782|"/>
+        </Key>
+        <Key name="53">
+            <Value text="53|575.5|55050246|133.2805|54.2697|66060289|134.2866|55.1267|1.3212|"/>
+        </Key>
+        <Key name="42">
+            <Value text="42|551.375|47448065|137.7211|53.2563|62390273|137.2641|57.1755|3.9455|"/>
+        </Key>
+        <Key name="24">
+            <Value text="24|540.9375|51904513|134.8823|54.2016|62390273|137.2641|57.1755|3.81|"/>
+        </Key>
+        <Key name="17">
+            <Value text="17|529.25|70254593|138.5065|52.1235|56623105|138.085|52.9831|0.9572|"/>
+        </Key>
+        <Key name="13">
+            <Value text="13|526.625|70516737|137.8103|53.1997|66060289|134.9396|59.6726|7.0808|"/>
+        </Key>
+        <Key name="12">
+            <Value text="12|525.1875|61341697|136.9213|61.4763|66060289|134.0961|61.6057|2.8281|"/>
+        </Key>
+        <Key name="56">
+            <Value text="56|582.875|53477377|142.5|58.5|67633153|135.197|56.1391|7.675|"/>
+        </Key>
+        <Key name="18">
+            <Value text="18|529.625|66322433|136.2253|54.3044|66846721|135.5324|60.8967|6.6284|"/>
+        </Key>
+        <Key name="5">
+            <Value text="5|507.3125|62128129|129.5964|61.3125|66060289|122.6284|61.9055|6.9931|"/>
+        </Key>
+    </Section>
+</Bank>

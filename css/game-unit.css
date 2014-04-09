@@ -1,0 +1,595 @@
+@charset "utf-8";
+
+/* Terran */
+.unit-banshee {
+	background-image: url(../img/icons/terran/units/btn-unit-terran-banshee.png);
+	background-repeat: no-repeat;
+}
+.unit-battlecruiser {
+	background-image: url(../img/icons/terran/units/btn-unit-terran-battlecruiser.png);
+	background-repeat: no-repeat;
+}
+.unit-ghost {
+	background-image: url(../img/icons/terran/units/btn-unit-terran-ghost.png);
+	background-repeat: no-repeat;
+}
+.unit-hellion {
+	background-image: url(../img/icons/terran/units/btn-unit-terran-hellion.png);
+	background-repeat: no-repeat;
+}
+.unit-marauder {
+	background-image: url(../img/icons/terran/units/btn-unit-terran-marauder.png);
+	background-repeat: no-repeat;
+}
+.unit-marine {
+	background-image: url(../img/icons/terran/units/btn-unit-terran-marine.png);
+	background-repeat: no-repeat;
+}
+.unit-medivac {
+	background-image: url(../img/icons/terran/units/btn-unit-terran-medivac.png);
+	background-repeat: no-repeat;
+}
+.unit-raven {
+	background-image: url(../img/icons/terran/units/btn-unit-terran-raven.png);
+	background-repeat: no-repeat;
+}
+.unit-reaper {
+	background-image: url(../img/icons/terran/units/btn-unit-terran-reaper.png);
+	background-repeat: no-repeat;
+}
+.unit-scv {
+	background-image: url(../img/icons/terran/units/btn-unit-terran-scv.png);
+	background-repeat: no-repeat;
+}
+.unit-siege-tank {
+	background-image: url(../img/icons/terran/units/btn-unit-terran-siegetank.png);
+	background-repeat: no-repeat;
+}
+.unit-thor {
+	background-image: url(../img/icons/terran/units/btn-unit-terran-thor.png);
+	background-repeat: no-repeat;
+}
+.unit-viking {
+	background-image: url(../img/icons/terran/units/btn-unit-terran-vikingfighter.png);
+	background-repeat: no-repeat;
+}
+/* Protoss */
+.unit-archon {
+	background-image: url(../img/icons/protoss/units/btn-unit-protoss-archon.png);
+	background-repeat: no-repeat;
+}
+.unit-carrier {
+	background-image: url(../img/icons/protoss/units/btn-unit-protoss-carrier.png);
+	background-repeat: no-repeat;
+}
+.unit-colossus {
+	background-image: url(../img/icons/protoss/units/btn-unit-protoss-colossus.png);
+	background-repeat: no-repeat;
+}
+.unit-dark-templar {
+	background-image: url(../img/icons/protoss/units/btn-unit-protoss-darktemplar.png);
+	background-repeat: no-repeat;
+}
+.unit-high-templar {
+	background-image: url(../img/icons/protoss/units/btn-unit-protoss-hightemplar.png);
+	background-repeat: no-repeat;
+}
+.unit-immortal {
+	background-image: url(../img/icons/protoss/units/btn-unit-protoss-immortal.png);
+	background-repeat: no-repeat;
+}
+.unit-mothership {
+	background-image: url(../img/icons/protoss/units/btn-unit-protoss-mothership.png);
+	background-repeat: no-repeat;
+}
+.unit-observer {
+	background-image: url(../img/icons/protoss/units/btn-unit-protoss-observer.png);
+	background-repeat: no-repeat;
+}
+.unit-phoenix {
+	background-image: url(../img/icons/protoss/units/btn-unit-protoss-phoenix.png);
+	background-repeat: no-repeat;
+}
+.unit-probe {
+	background-image: url(../img/icons/protoss/units/btn-unit-protoss-probe.png);
+	background-repeat: no-repeat;
+}
+.unit-sentry {
+	background-image: url(../img/icons/protoss/units/btn-unit-protoss-sentry.png);
+	background-repeat: no-repeat;
+}
+.unit-stalker {
+	background-image: url(../img/icons/protoss/units/btn-unit-protoss-stalker.png);
+	background-repeat: no-repeat;
+}
+.unit-void-ray {
+	background-image: url(../img/icons/protoss/units/btn-unit-protoss-warpray.png);
+	background-repeat: no-repeat;
+}
+.unit-warp-prism {
+	background-image: url(../img/icons/protoss/units/btn-unit-protoss-warpprism.png);
+	background-repeat: no-repeat;
+}
+.unit-zealot {
+	background-image: url(../img/icons/protoss/units/btn-unit-protoss-zealot.png);
+	background-repeat: no-repeat;
+}
+/* Zerg */
+.unit-baneling {
+	background-image: url(../img/icons/zerg/units/btn-unit-zerg-baneling.png);
+	background-repeat: no-repeat;
+}
+.unit-brood-lord {
+	background-image: url(../img/icons/zerg/units/btn-unit-zerg-broodlord.png);
+	background-repeat: no-repeat;
+}
+.unit-corruptor {
+	background-image: url(../img/icons/zerg/units/btn-unit-zerg-corruptor.png);
+	background-repeat: no-repeat;
+}
+.unit-drone {
+	background-image: url(../img/icons/zerg/units/btn-unit-zerg-drone.png);
+	background-repeat: no-repeat;
+}
+.unit-hydralisk {
+	background-image: url(../img/icons/zerg/units/btn-unit-zerg-hydralisk.png);
+	background-repeat: no-repeat;
+}
+.unit-infestor {
+	background-image: url(../img/icons/zerg/units/btn-unit-zerg-infestor.png);
+	background-repeat: no-repeat;
+}
+.unit-larva {
+	background-image: url(../img/icons/zerg/units/btn-unit-zerg-larva.png);
+	background-repeat: no-repeat;
+}
+.unit-mutalisk {
+	background-image: url(../img/icons/zerg/units/btn-unit-zerg-mutalisk.png);
+	background-repeat: no-repeat;
+}
+.unit-nydus-worm {
+	background-image: url(../img/icons/zerg/structures/btn-building-zerg-nydusworm.png);
+	background-repeat: no-repeat;
+}
+.unit-overlord {
+	background-image: url(../img/icons/zerg/units/btn-unit-zerg-overlord.png);
+	background-repeat: no-repeat;
+}
+.unit-overseer {
+	background-image: url(../img/icons/zerg/units/btn-unit-zerg-overseer.png);
+	background-repeat: no-repeat;
+}
+.unit-queen {
+	background-image: url(../img/icons/zerg/units/btn-unit-zerg-queen.png);
+	background-repeat: no-repeat;
+}
+.unit-roach {
+	background-image: url(../img/icons/zerg/units/btn-unit-zerg-roach.png);
+	background-repeat: no-repeat;
+}
+.unit-ultralisk {
+	background-image: url(../img/icons/zerg/units/btn-unit-zerg-ultralisk.png);
+	background-repeat: no-repeat;
+}
+.unit-zergling {
+	background-image: url(../img/icons/zerg/units/btn-unit-zerg-zergling.png);
+	background-repeat: no-repeat;
+}
+
+/* HotS units */
+.unit-hellbat {
+	background-image: url(../img/icons/terran/units/btn-unit-terran-hellionbattlemode.png);
+	background-repeat: no-repeat;
+}
+.unit-mothership-core {
+	background-image: url(../img/icons/protoss/units/btn-unit-protoss-mothershipcore.png);
+	background-repeat: no-repeat;
+}
+.unit-oracle {
+	background-image: url(../img/icons/protoss/units/btn-unit-protoss-oracle.png);
+	background-repeat: no-repeat;
+}
+.unit-swarm-host {
+	background-image: url(../img/icons/zerg/units/btn-unit-zerg-swarmhost.png);
+	background-repeat: no-repeat;
+}
+.unit-tempest {
+	background-image: url(../img/icons/protoss/units/btn-unit-protoss-tempest.png);
+	background-repeat: no-repeat;
+}
+.unit-viper {
+	background-image: url(../img/icons/zerg/units/btn-unit-zerg-viper.png);
+	background-repeat: no-repeat;
+}
+.unit-widow-mine {
+	background-image: url(../img/icons/terran/units/btn-unit-terran-widowmine.png);
+	background-repeat: no-repeat;
+}
+
+
+
+/****		Unit styles :: NEED TO MODIFY		****/
+.unit-home-content { padding: 0 0 50px 40px; position: relative; }
+.unit-home-content #sub-header { padding-left: 0; }
+.unit-home-content .intro { padding: 0 400px 50px 0; }
+
+.unit-data-tables {width:916px; }
+.unit-datatable {width:916px; margin:10px 0 50px 0; clear:both;}
+.title-bar {
+	width:100% !important;
+	height:57px !important;
+	padding-left:88px;
+	position:relative;
+	z-index:1;
+	background-image: url(../img/bg-unit-datatable-title.gif);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+}
+.title-bar  span {font-size:15px; display:block; padding-top:22px;}
+.title-bar .terran {
+	width:52px;
+	height:53px;
+	position:absolute;
+	top:13px;
+	left:15px;
+	z-index:1;
+	background-image: url(../img/icons/icon-title-terran.png);
+	background-repeat: no-repeat;
+}
+.title-bar .protoss {
+	width:46px;
+	height:64px;
+	position:absolute;
+	top:10px;
+	left:22px;
+	z-index:1;
+	background-image: url(../img/icons/icon-title-protoss.png);
+	background-repeat: no-repeat;
+}
+.title-bar .zerg {
+	width:53px;
+	height:56px;
+	position:absolute;
+	top:14px;
+	left:15px;
+	z-index:1;
+	background-image: url(../img/icons/icon-title-zerg.png);
+	background-repeat: no-repeat;
+}
+.unit-home .unit-datatable .databox {
+	width:100%;
+	background-image: url(../img/bg-unit-datatable-bg.gif);
+	background-repeat: repeat-y;
+	background-position: 100% 0;
+}
+.unit-datatable .wapper1 {
+	width:100%;
+	background-image: url(../img/bg-unit-datatable-bottom.gif);
+	background-repeat: no-repeat;
+	background-position: 100% 100%;
+}
+.unit-datatable .wapper2 {
+	width:100%;
+	padding-bottom:28px;
+	position:relative;
+	background-image: url(../img/bg-unit-datatable-top.gif);
+	background-repeat: no-repeat;
+	background-position: 100% 0;
+}
+.unit-datatable .wapper2 .p-top-left {
+	width:18px;
+	height:18px;
+	position:absolute;
+	top:35px;
+	left:43px;
+	background-image: url(../img/bg-unit-datatable-top-left.gif);
+	background-repeat: no-repeat;
+	background-position: 100% 0;
+}
+.unit-datatable .wapper2 .p-bottom-right {
+	width:8px;
+	height:104px;
+	position:absolute;
+	bottom:5px;
+	right:0;
+	background-image: url(../img/bg-unit-datatable-bottom-right.gif);
+	background-repeat: no-repeat;
+	background-position: 100% 0;
+}
+.unit-datatable table {width:100%; margin-left: auto; margin-right: auto; border-spacing:0px; border-collapse:collapse;}
+.unit-datatable table tr th {font:normal 12px/33px "Lucida Sans Unicode", "Lucida Grande", sans-serif; letter-spacing:-1px; color:#57afe7; text-align:center; vertical-align:top; height:47px;}
+table tr th.title-unit {text-align:left; padding-left:71px;}
+
+.unit-datatable table tr td {font:normal 12px "Lucida Sans Unicode", "Lucida Grande", sans-serif; color:#0f68c8; text-align:center; height:61px; border-bottom:1px solid #002240;}
+.unit-datatable table tr td a {font:normal 12px "Lucida Sans Unicode", "Lucida Grande", sans-serif !important; color:#0f68c8 !important; text-decoration:none !important;}
+.unit-datatable table tr.last td {border-bottom:none;}
+.unit-datatable table tr td.unit-title {width: 225px; text-align:left; padding-left:7px; line-height:61px;}
+table tr td.unit-title  .portrait-c { float: left; }
+table tr td.unit-title  span { float: left; line-height: 24px;}
+.unit-table tbody tr {cursor:pointer;}
+table tr.rollover-on td{color:#fff; background-color:#02264d;}
+table tr td.mineral,
+table tr td.vespene,
+table tr td.supply {width:55px;}
+table tr td.producer {width:150px;}
+.portrait-c {
+	display: block;
+	height: 48px;
+	padding: 2px 0 0 5px;
+	width: 50px;
+	background-attachment: scroll;
+	background-color: transparent;
+	background-image: url(../img/portrait-frame.gif);
+	background-repeat: no-repeat;
+	background-position: 0 -287px;
+}
+.rollover-on .portrait-c { background-position: -105px -287px; }
+.portrait-c .unit-thumb-54x49 { width: 45px; height: 45px; overflow: hidden; background: #000; -moz-border-radius: 5px; -webkit-border-radius: 5px; border-radius: 5px; }
+.portrait-c .unit-thumb-54x49 span { margin: -5px 0 0 -5px; }
+
+/****** unit rotate ************/
+.model-viewer { height: 212px; width: 212px; position: absolute; top: 0; left: 50%; margin-left: -106px; }
+.model-viewer .model { height: 225px; }
+.model-viewer .loading { margin: 0 auto; }
+.model-viewer .viewer { height: 212px; width: 212px; margin: 0 auto; background-position: 0 0; background-repeat: repeat-x; background-position: -636px 0; }
+
+.model-viewer .can-drag:hover,
+.model-viewer .can-drag.dragging { background: url('../../images/game/unit/3d-rotate/frame.png') no-repeat 50% -2px; }
+.tall-unit .model-viewer .model { height: 300px; }
+.tall-unit .model-viewer .can-drag:hover,
+.tall-unit .model-viewer .can-drag.dragging { background-image: url('../../images/game/unit/3d-rotate/frame-tall.png'); }
+
+.model-viewer .can-drag { cursor: url("/sc2/static/local-common/images/cursors/grab.cur"), e-resize; }
+.model-viewer .dragging { cursor: url("/sc2/static/local-common/images/cursors/grabbing.cur"), e-resize !important; }
+.model-viewer .load-fail { cursor: default !important; }
+
+/* Terran */
+.drag-ghost .viewer { background-position: 0 0; }
+.drag-thor .viewer { background-position: -500px 0; width: 250px; margin-left: -20px; }
+.drag-battlecruiser .viewer { background-position: -1060px 0 }
+/* Protoss */
+.drag-colossus .viewer { height: 290px }
+.drag-sentry .viewer { background-position: -1908px 0 }
+.drag-dark-templar .viewer { background-position: 0 0 }
+.drag-mothership .viewer { background-position: 0 0; width: 230px; margin-left: -10px; }
+/* Zerg */
+.drag-ultralisk .viewer { background-position: -600px 0; width: 300px; margin-left: -50px }
+
+/* Unit Details pages */
+.unit-content { padding: 125px 40px 50px 40px; position: relative; }
+.unit-content .col-left {width:49%; float:left;}
+.unit-content .col-right {width:50%; float:right;}
+.unit-content .unit-portrait {width:154px; height:223px; margin:11px 15px 0 0; position:relative; float:left;}
+.unit-content .unit-portrait  #portrait-holography {width:154px; height:230px; position:absolute; top:-14px; left:-6px;}
+.unit-content h2 {margin-left:-4px; z-index:0; line-height:70px !important;}
+.unit-content .outline { width:440px; margin:38px 0 54px 0;}
+.unit-content .outline .exp-req { font-size: 12px; color: #912cbb;}
+.unit-content .screenshot {width:394px;}
+.unit-content .screenshot .screen {height:182px;}
+.unit-content .title-bar {font-size:15px; line-height:18px;}
+
+.unit-statistics { width: 916px; margin: 0 -15px; }
+.unit-statistics .title-bar {
+	width:916px !important;
+	height:57px !important;
+	padding-left:88px;
+	position:relative;
+	background-image: url(../img/bg-unit-datatable-title.gif);
+	background-repeat: no-repeat;
+}
+.unit-statistics .title-bar span {font-size:15px; display:block; padding-top:22px;}
+.unit-statistics .title-bar .icon {
+	width:57px;
+	height:53px;
+	position:absolute;
+	top:39px;
+	left:38px;
+	z-index:1;
+	background-image: url(../img/icons/icon-title-unit-statistics.png);
+	background-repeat: no-repeat;
+}
+.unit-statistics .databox {
+	background-image: url(../img/bg-unit-datatable-bg.gif);
+	background-repeat: repeat-y;
+	background-position: 100% 0;
+}
+.unit-statistics .wapper1 {
+	background-image: url(../img/bg-unit-datatable-bottom.gif);
+	background-repeat: no-repeat;
+	background-position: 100% 100%;
+}
+.unit-statistics .wapper2 {
+	padding-bottom:16px;
+	background-image: url(../img/bg-unit-datatable-top.gif);
+	background-repeat: no-repeat;
+	background-position: 100% 0;
+}
+.unit-statistics .unit-holography { width:270px; height: 225px; float: left; text-align: center; position: relative; left:19px; top: 44px; padding-bottom: 45px; }
+.unit-statistics .unit-holography.tall-unit { height: 300px;}
+.unit-statistics h4.rotate {
+	padding-left: 38px;
+	text-align: left;
+	display: inline-block;
+	position: relative;
+	top: -44px;
+	line-height: 36px;
+	font: bold 11px/36px Arial;
+	color: #57afe7;
+	text-transform: uppercase;
+	height: 36px;
+	background-image: url(../img/icons/icon-rotate.png);
+	background-repeat: no-repeat;
+	background-position: 0 8px;
+}
+.unit-colossus .unit-holography {margin:2px 0 0 0;}
+.unit-content .statistics-content div {min-height:197px; float:left;}
+.unit-content .statistics-content div h4 {font:bold 11px/36px Arial; color:#57afe7; text-transform:uppercase; text-align:left; height:36px;}
+.unit-content .statistics-content table { border-spacing:0px; border:0; border-collapse:collapse; margin:16px 0 0 0;}
+.unit-content .statistics-content .basic-stats, .unit-content .statistics-content .basic-stats table { width:206px;}
+.unit-content .statistics-content .production-stats, .unit-content .statistics-content .production-stats table { width:208px;}
+.unit-content .statistics-content .combat-stats, .unit-content .statistics-content .combat-stats table { width:210px;}
+.unit-content .statistics-content table tr td {letter-spacing:0px; text-align:left;}
+.unit-content .statistics-content table tr td.content {font:normal 12px/22px Arial, sans-serif; color:#1a6d96; text-align:left;}
+.unit-content .statistics-content table tr td.title {font:normal 12px/22px Arial, sans-serif; color:#658fad; vertical-align:top; white-space:nowrap; padding-right: 5px; }
+.unit-content .statistics-content .combat-stats .content .content img{margin:0 !important;}
+.unit-content .statistics-content table tr td img {vertical-align:middle; margin-right:5px;}
+.unit-content .statistics-content table tr td img.vespene {margin-left:10px;}
+.unit-content .statistics-content .tabs {margin-top:20px; height:68px; min-height:68px;}
+.unit-content .statistics-content .tabs ul {position:relative; }
+.unit-content .statistics-content .tabs ul li {background: url('../../images/game/icon-arrow-related.gif') no-repeat 4px 52%; padding-left:20px;}
+.unit-content .statistics-content .tabs .title { color:#1a6d96; text-align:left; display:block; width:75px; width:150px;}
+#combat-stats div {clear:both;}
+#combat-stats .ui-tabs-nav li a {font:normal 12px/23px "Lucida Sans Unicode", "Lucida Grande", sans-serif;}
+#combat-stats .ui-tabs-nav li.ui-tabs-selected a, .ui-tabs#combat-stats .ui-tabs-nav li.ui-state-disabled a, .ui-tabs#combat-stats .ui-tabs-nav li.ui-state-processing a { color:#fff; cursor:default;}
+#combat-stats .ui-tabs-nav li a, .ui-tabs.ui-tabs-collapsible#combat-stats .ui-tabs-nav li.ui-tabs-selected a { cursor: pointer; } /* first selector in group seems obsolete, but required to overcome bug in Opera applying cursor: text overall if defined elsewhere... */
+#combat-stats .ui-tabs-panel {display: block; border: 0; }
+#combat-stats .ui-tabs-panel a {display:block;}
+#combat-stats .ui-tabs-hide { display: none !important; }
+
+.unit-content .unit-manual { margin-top: 50px; clear:both;}
+.unit-content .unit-manual .title-bar {margin-left:4px;}
+.unit-content .unit-manual .title-bar .icon {width:89px !important; background:url('../../images/game/unit/icon-title-bar-unit-manual.png') no-repeat;}
+.unit-content .unit-manual .content-body { float: left; width:420px; line-height: 2em;}
+.unit-content .unit-manual .content-body  p { margin-bottom: 10px; line-height: 2em;}
+.unit-content .countermeasures ul { margin-bottom: 50px; width:440px;}
+.unit-content .countermeasures .screenshot {margin:-55px 0 40px 0 !important; float: right; clear: right; }
+.unit-content .unit-manual ul li, .unit-content .countermeasures ul li, .unit-content .upgrades ul li {
+	padding-left:28px;
+	line-height:2em;
+	background-image: url(../img/bullet-arrow.gif);
+	background-repeat: no-repeat;
+	background-position: 0 3px;
+}
+.unit-content .unit-manual .against { width:350px; /*background:url('../../images/game/unit/bg-unit-against-bg.gif') repeat-y 100% 0; margin-top:-52px;*/ float:right;}
+.unit-content .unit-manual .against .wrapper1 { /*background:url('../../images/game/unit/bg-unit-against-top.gif') no-repeat 100% 0;*/}
+.unit-content .unit-manual .against .wrapper2 { /*padding:13px 0 33px 0; background:url('../../images/game/unit/bg-unit-against-bottom.gif') no-repeat 100% 100%;*/}
+/*.unit-content .unit-manual .against .strong, .unit-manual .against .weak {position:relative; left:82px;}*/
+.unit-content .unit-manual .against .weak {clear:left; padding-top:10px;}
+.unit-content .unit-manual .against h4 { height:42px; display:block;}
+.unit-content .unit-manual .against h4 span {font:bold 11px/42px Arial; color:#7cc5f3; text-transform:uppercase; height:42px; display:block; padding-left:52px;}
+.unit-content .unit-manual .against .strong h4 {background:url('../../images/game/unit/icon-strongagainst.png') no-repeat;}
+.unit-content .unit-manual .against .weak h4 {background:url('../../images/game/unit/icon-weakagainst.png') no-repeat;}
+/*.unit-content .unit-manual .against ul {width:470px; margin:0; position:relative; left:38px;}*/
+.unit-content .unit-manual .against ul { margin: 0 0 15px 25px; }
+.unit-content .unit-manual .against ul li {background:none; padding-left:0; float:left; text-align:center; width:81px;}
+.unit-content .unit-manual .against ul li {font:normal 10px "Lucida Sans Unicode", "Lucida Grande", sans-serif; color:#336ea5 !important;}
+
+.unit-content .upgrades { margin-top: 50px; clear:both;}
+.unit-content .upgrades ul li em {font-style:normal; color:#47a2ff; text-transform:uppercase;}
+.unit-content .upgrades .title-bar {margin-left:4px;}
+.unit-content .upgrades .title-bar .icon {width:89px !important; background:url('../../images/game/unit/icon-title-bar-unit-manual.png') no-repeat;}
+.unit-content .countermeasures { margin-top: 50px; clear:both; }
+.unit-content .countermeasures .title-bar {margin-left:4px;}
+.unit-content .countermeasures .title-bar .icon {width:89px !important; background:url('../../images/game/unit/icon-title-bar-unit-countermeasures.png') no-repeat;}
+.unit-content .countermeasures .title-race { height: 90px; clear:both; font:normal 24px/89px "Lucida Sans Unicode", "Lucida Grande", sans-serif; color:#47a2ff; margin:11px 0 0 0; }
+.unit-content .countermeasures .title-race em {font-size:18px; font-style:normal;}
+.unit-content .countermeasures .unit-thumb {float:left;}
+.unit-map-box { margin-top:150px; position:relative; }
+
+#unit-map {width:100%; }
+#unit-map .tab-content {width:100%; background:url('../img/bg-unit-navigator-bg.gif') repeat-y;}
+
+#unit-map .tab-content ul li span{width:80px; display:block; font:normal 10px "Lucida Sans Unicode", "Lucida Grande", sans-serif; color:#336ea5;}
+#unit-map .tab-content ul li.rollover-on  span{color:#fff;}
+#unit-map .outtop {width:100%; height:135px; background:url('../img/bg-unit-navigator-outtop.gif') no-repeat top left; position:absolute; z-index:1;}
+#unit-map .intop {width:100%; background:url('../img/bg-unit-navigator-intop.gif') no-repeat 5px 5px; position:relative; z-index:3;}
+#unit-map .bottom {width:100%; background:url('../img/bg-unit-navigator-bottom.gif') no-repeat bottom left;}
+#unit-map .ui-tabs-nav {
+	position:relative;
+	width: 100%;
+}
+#unit-map .ui-tabs-nav li {
+	float: left;
+	position: relative;
+	top: 1px;
+	border-bottom: 0 !important;
+	list-style-type: none;
+}
+#unit-map .ui-tabs-nav li a {
+	text-transform:uppercase;
+	display: inline-block;
+	background-color: #111111;
+	border: 1px solid #404040;
+	width: 120px;
+	heigh: 32px;
+	margin:0;
+	text-align: center;
+	font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+	font-size: 15px;
+	font-style: normal;
+	line-height: 31px;
+	font-weight: normal;
+	font-variant: normal;
+}
+#unit-map .ui-tabs-nav li a:hover {
+	color:#fff; 
+	background-color: #222222;
+}
+#unit-map .ui-tabs-nav li.ui-tabs-selected {  margin-bottom: 0; padding-bottom: 1px; position:relative; z-index:2;}
+#unit-map .ui-tabs-nav li.ui-tabs-selected a, .ui-tabs#unit-map .ui-tabs-nav li.ui-state-disabled a, .ui-tabs#unit-map .ui-tabs-nav li.ui-state-processing a { color:#fff; cursor: text; width:145px; height:64px; background:url('../img/tab-unit-navigator-on.gif') no-repeat;}
+#unit-map .ui-tabs-nav li a, .ui-tabs.ui-tabs-collapsible#unit-map .ui-tabs-nav li.ui-tabs-selected a { cursor: pointer; } /* first selector in group seems obsolete, but required to overcome bug in Opera applying cursor: text overall if defined elsewhere... */
+#unit-map .ui-tabs-panel {display: block; border: 0; padding: 1em 1.4em; }
+#unit-map .ui-tabs-hide { display:none !important; }
+#page-comments {width:892px;}
+.unit-carrier .unit-content .outline {width:400px;}
+.unit-mothership .unit-content .outline {width:390px;}
+.unit-zealot .unit-content .outline {width:420px;}
+.unit-stalker .unit-content .outline {width:420px;}
+.unit-sentry .unit-content .outline {width:390px;}
+.unit-observer .unit-content .outline {width:390px;}
+.unit-immortal .unit-content .outline {width:400px;}
+.unit-warp-prism .unit-content .outline {width:400px;}
+.unit-colossus .unit-content .outline {width:390px;}
+.unit-phoenix .unit-content .outline {width:400px;}
+.unit-void-ray .unit-content .outline {width:390px;}
+.unit-high-templar .unit-content .outline {width:390px;}
+.unit-dark-templar .unit-content .outline {width:390px;}
+.unit-baneling .unit-content .outline {width:380px;}
+.unit-overseer .unit-content .outline {width:420px;}
+.unit-roach .unit-content .outline {width:410px;}
+.unit-infestor .unit-content .outline {width:400px;}
+.unit-mutalisk .unit-content .outline {width:420px;}
+.unit-corruptor .unit-content .outline {width:410px;}
+.unit-nydus-worm .unit-content .outline {width:410px;}
+.unit-ultralisk .unit-content .outline {width:385px;}
+.unit-larva .unit-content .outline {width:400px;}
+.unit-drone .unit-content .outline {width:420px;}
+.unit-zergling .unit-content .outline {width:390px;}
+.unit-queen .unit-content .outline {width:420px;}
+.unit-hydralisk .unit-content .outline {width:400px;}
+.unit-battlecruiser .unit-content .outline {width:400px;}
+.unit-scv .unit-content .outline {width:390px;}
+.unit-marine .unit-content .outline {width:420px;}
+.unit-marauder .unit-content .outline {width:400px;}
+.unit-reaper .unit-content .outline {width:400px;}
+.unit-ghost .unit-content .outline {width:400px;}
+.unit-hellion .unit-content .outline {width:400px;}
+.unit-siege-tank .unit-content .outline {width:400px;}
+.unit-thor .unit-content .outline {width:390px;}
+.unit-viking .unit-content .outline {width:400px;}
+.unit-medivac .unit-content .outline {width:420px;}
+.unit-raven .unit-content .outline {width:400px;}
+.unit-viper .unit-content .outline {width:375px;}
+.unit-tempest .unit-content .outline {width:375px;}
+.unit-hellbat .unit-content .outline {width:375px;}
+.unit-widow-mine .unit-content .outline {width:375px;}
+.unit-swarm-host .unit-content .outline {width:355px;}
+
+/* Specipic Styles for Units Thumb of Observer weakness */
+.observer-weakness-thumb div {width:80px; height:72px; background:url('../../images/game/unit/observer-weakness-unit-thumbs.gif') no-repeat;}
+.observer-weakness-thumb .missile-turret {background-position:0 0;}
+.observer-weakness-thumb .spore-crawler {background-position:-80px 0;}
+.observer-weakness-thumb .photon-cannon {background-position:-160px 0;}
+
+/* Units tabs */
+.unit-content .tabs .unit-thumb div, .unit-content .tabs .unit-thumb { height: 72px; min-height: 72px; }
+
+/* tooltips */
+.has-tooltip { cursor: help; border-bottom: 1px dotted #658FAD; }
+.max-upgrade { color: orange; }
+.unit-datatooltip-content .max-upgrade { color: red; }
+.unit-datatooltip-content { width: 150px; float: left; padding-left: 10px; }
+
+.meta-wrapper { padding-bottom: 10px;}
+.unit-content .statistics-content .combat-stats .content .content .tooltip-icon-small { width: 25px; height: 25px; margin: 2px 0 !important; border: 1px solid #046bb8; cursor: help; display: inline-block; vertical-align: top; }
+.unit-content .statistics-content .combat-stats .content .content .tooltip-icon-small img { vertical-align: top; width: 25px; height: 25px; }
