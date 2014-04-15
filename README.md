@@ -25,7 +25,7 @@ Data collected will be saved in your StarCraft II folder under My Documents on W
 
 Once located, these files can be uploaded to the website component of the project, which will then parse the data into the database.
 
-All of the files necessary to create a working copy of the website are included here. Please note that in order to complete the setup, you will need to edit the config.php file with your machine's database information. 
+All of the files necessary to create a working copy of the website are included here. Please note that in order to complete the setup, you will need to edit the config.php file with your machine's database information. WARNING: The way in which I've included the database configuration options presents a possible security hole. Make changes as necessary for your specific testing environment!
 
 From there, simply open the admin.php page in your browser and click on 'Reset Database' to recreate the database table structure from the included .sql file in the backup folder. 
 
