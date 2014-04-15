@@ -1,5 +1,5 @@
 <?
-require_once '../../../phpapps/MDCL/config.php';
+require_once 'config.php';
 require_once 'lists.php';
 require_once 'functions.php';
 
