@@ -3,7 +3,7 @@ SC2MDCL
 
 StarCraft 2 Melee Data Collection Library
 
-The SC2 MDCL project is a prototype website for the collection and data-mining gameplay statistics for StarCraft 2: heart of the Swarm. 
+The SC2 MDCL project is a prototype website for the collection and data-mining gameplay statistics for StarCraft 2: Heart of the Swarm. 
 
 Raw gameplay data is collected via a custom Trigger library developed in the StarCraft 2 Editor itself, which has been uploaded as an Extension Mod. This mod can be applied to any melee map and will automatically record gameplay statistics to a .SC2Bank file stored locally on each player's computer. Despite the file extension, this data is simply raw XML recorded as event strings in a CSV format for easy parsing in PHP and to minimize file size. Some example Bank files are included in order to better understand the format.
 
