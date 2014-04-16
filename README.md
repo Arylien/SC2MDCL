@@ -34,3 +34,5 @@ To quickly populate the database with the included example bank files, click the
 Please note that map images were created manually from the SC2 editor itself. In order to add new maps other than the ones included in this project, you will have to create these map images yourself!!!
 
 This project is provided AS-IS and comes without any support and I will accept no responsibility for any issues you may run into while using it. The project is released under an MIT license, so feel free to tinker with it as you please, so long as you provide credit!
+
+Credit for many of the included images go to Blizzard Entertainment. Many thanks go to the authors of the included Javascript libraries and their associated files. None of these files are allowed to be used commercially unless expressly stated otherwise by their respective owners.
